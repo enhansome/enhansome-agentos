@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent that grows with you",
+            "homepage": "https://hermes-agent.nousresearch.com",
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-28T13:09:13Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:39:01Z",
+            "open_issues": 37204,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 237584
+            "stars": 237812,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "claude",
+              "claude-code",
+              "codex",
+              "hermes",
+              "hermes-agent",
+              "llm",
+              "nous-research",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -26,12 +45,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+            "homepage": "https://n8n.io",
             "id": 193215554,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T13:17:08Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T05:04:01Z",
+            "open_issues": 1117,
             "owner": "n8n-io",
             "repo": "n8n",
-            "stars": 202674
+            "stars": 202735,
+            "topics": [
+              "ai",
+              "apis",
+              "automation",
+              "cli",
+              "data-flow",
+              "development",
+              "integration-framework",
+              "integrations",
+              "ipaas",
+              "low-code",
+              "low-code-platform",
+              "mcp",
+              "mcp-client",
+              "mcp-server",
+              "n8n",
+              "no-code",
+              "self-hosted",
+              "typescript",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -42,12 +87,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+            "homepage": "https://agpt.co",
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-28T11:15:46Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:02:30Z",
+            "open_issues": 517,
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186963
+            "stars": 186965,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai",
+              "artificial-intelligence",
+              "autonomous-agents",
+              "claude",
+              "gpt",
+              "llama-api",
+              "llm",
+              "openai",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -58,12 +120,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+            "homepage": "http://www.langflow.org",
             "id": 599320067,
             "language": "Python",
-            "last_commit": "2026-08-28T13:06:31Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:41:50Z",
+            "open_issues": 991,
             "owner": "langflow-ai",
             "repo": "langflow",
-            "stars": 153781
+            "stars": 153830,
+            "topics": [
+              "agents",
+              "chatgpt",
+              "generative-ai",
+              "large-language-models",
+              "multiagent",
+              "react-flow"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -74,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agents running research on single-GPU nanochat training automatically",
+            "homepage": null,
             "id": 1174820787,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-26T00:07:37Z",
+            "open_issues": 194,
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 94842
+            "stars": 94874,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -90,12 +169,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+            "homepage": "https://deerflow.tech",
             "id": 979115477,
             "language": "Python",
-            "last_commit": "2026-08-28T02:44:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:07:16Z",
+            "open_issues": 911,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 81051
+            "stars": 81065,
+            "topics": [
+              "agent",
+              "agentic",
+              "agentic-framework",
+              "agentic-workflow",
+              "ai",
+              "ai-agents",
+              "deep-research",
+              "harness",
+              "langchain",
+              "langgraph",
+              "langmanus",
+              "llm",
+              "multi-agent",
+              "nodejs",
+              "podcast",
+              "python",
+              "superagent",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -106,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "No fortress, purely open ground.  OpenManus is Coming.",
+            "homepage": "https://openmanus.github.io/",
             "id": 943934999,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-22T07:53:07Z",
+            "open_issues": 466,
             "owner": "FoundationAgents",
             "repo": "OpenManus",
-            "stars": 58103
+            "stars": 58111,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -122,12 +230,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build AI Agents, Visually",
+            "homepage": "https://flowiseai.com",
             "id": 621803253,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T12:38:19Z",
+            "open_issues": 1046,
             "owner": "FlowiseAI",
             "repo": "Flowise",
-            "stars": 55402
+            "stars": 55401,
+            "topics": [
+              "agentic-ai",
+              "agentic-workflow",
+              "agents",
+              "artificial-intelligence",
+              "chatbot",
+              "chatgpt",
+              "javascript",
+              "langchain",
+              "large-language-models",
+              "low-code",
+              "multiagent-systems",
+              "no-code",
+              "openai",
+              "rag",
+              "react",
+              "typescript",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -138,12 +269,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+            "homepage": "https://goose-docs.ai/",
             "id": 846698999,
             "language": "Rust",
-            "last_commit": "2026-08-28T10:44:52Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:20:42Z",
+            "open_issues": 223,
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 53605
+            "stars": 53630,
+            "topics": [
+              "acp",
+              "ai",
+              "ai-agents",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -154,12 +295,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+            "homepage": null,
             "id": 8681349,
             "language": "Ruby",
-            "last_commit": "2026-08-28T02:43:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:43:12Z",
+            "open_issues": 697,
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 49861
+            "stars": 49864,
+            "topics": [
+              "agent",
+              "automation",
+              "feed",
+              "feedgenerator",
+              "huginn",
+              "monitoring",
+              "notifications",
+              "rss",
+              "scraper",
+              "twitter",
+              "twitter-streaming",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -170,12 +329,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Teams-first Multi-agent orchestration for Claude Code",
+            "homepage": "https://oh-my-claudecode.dev",
             "id": 1130809465,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T13:09:37Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:45:37Z",
+            "open_issues": 1,
             "owner": "Yeachan-Heo",
             "repo": "oh-my-claudecode",
-            "stars": 38840
+            "stars": 38853,
+            "topics": [
+              "agentic-coding",
+              "ai-agents",
+              "automation",
+              "claude",
+              "claude-code",
+              "multi-agent-systems",
+              "oh-my-opencode",
+              "opencode",
+              "parallel-execution",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -186,12 +361,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+            "homepage": "https://www.sim.ai",
             "id": 912559512,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T10:12:37Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T05:06:31Z",
+            "open_issues": 312,
             "owner": "simstudioai",
             "repo": "sim",
-            "stars": 29485
+            "stars": 29489,
+            "topics": [
+              "agent-workflow",
+              "agentic-workflow",
+              "agents",
+              "ai",
+              "aiagents",
+              "anthropic",
+              "artificial-intelligence",
+              "automation",
+              "chatbot",
+              "deepseek",
+              "gemini",
+              "low-code",
+              "nextjs",
+              "no-code",
+              "openai",
+              "rag",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -202,12 +401,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+            "homepage": "https://mastra.ai",
             "id": 839037098,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T13:12:07Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:15:57Z",
+            "open_issues": 544,
             "owner": "mastra-ai",
             "repo": "mastra",
-            "stars": 27545
+            "stars": 27548,
+            "topics": [
+              "agents",
+              "ai",
+              "chatbots",
+              "evals",
+              "javascript",
+              "llm",
+              "mcp",
+              "nextjs",
+              "nodejs",
+              "reactjs",
+              "tts",
+              "typescript",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -218,12 +436,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+            "homepage": "https://docs.letta.com/",
             "id": 703411624,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T19:05:43Z",
+            "open_issues": 39,
             "owner": "letta-ai",
             "repo": "letta",
-            "stars": 24474
+            "stars": 24484,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "llm",
+              "llm-agent"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -234,12 +462,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+            "homepage": "https://www.activepieces.com",
             "id": 573661753,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T01:11:53Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:40:53Z",
+            "open_issues": 510,
             "owner": "activepieces",
             "repo": "activepieces",
-            "stars": 24075
+            "stars": 24081,
+            "topics": [
+              "ai-agent",
+              "ai-agent-tools",
+              "ai-agents",
+              "ai-agents-framework",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "mcps",
+              "n8n-alternative",
+              "no-code-automation",
+              "workflow",
+              "workflow-automation",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -250,12 +497,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source agentic operating system",
+            "homepage": "https://elizaresearch.ai/",
             "id": 826170402,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T13:16:47Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:13:33Z",
+            "open_issues": 1386,
             "owner": "elizaOS",
             "repo": "eliza",
-            "stars": 19196
+            "stars": 19201,
+            "topics": [
+              "agent",
+              "agentic",
+              "ai",
+              "autonomous",
+              "chatbot",
+              "crypto",
+              "discord",
+              "eliza",
+              "elizaos",
+              "framework",
+              "plugins",
+              "rag",
+              "slack",
+              "swarm",
+              "telegram"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -266,12 +534,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source AI coworker, with memory",
+            "homepage": "https://www.rowboatlabs.com",
             "id": 916009087,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:19:50Z",
+            "open_issues": 167,
             "owner": "rowboatlabs",
             "repo": "rowboat",
-            "stars": 17434
+            "stars": 17436,
+            "topics": [
+              "agents",
+              "agents-sdk",
+              "ai",
+              "ai-agents",
+              "ai-agents-automation",
+              "chatgpt",
+              "claude-code",
+              "claude-cowork",
+              "generative-ai",
+              "llm",
+              "multiagent",
+              "opeani",
+              "open-source",
+              "orchestration",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -282,12 +571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!\"",
+            "homepage": null,
             "id": 1198616956,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-04T02:42:40Z",
+            "open_issues": 84,
             "owner": "HKUDS",
             "repo": "OpenHarness",
-            "stars": 15563
+            "stars": 15566,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -298,12 +592,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IronClaw is an Agent OS focused on privacy, security and extensibility",
+            "homepage": "https://www.ironclaw.com",
             "id": 1148615527,
             "language": "Rust",
-            "last_commit": "2026-08-28T13:16:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:59:38Z",
+            "open_issues": 1477,
             "owner": "nearai",
             "repo": "ironclaw",
-            "stars": 12603
+            "stars": 12602,
+            "topics": [
+              "codeact",
+              "openclaw",
+              "rlm",
+              "rust",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -314,28 +619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1134220362,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-13T10:56:45Z",
+            "open_issues": 13,
             "owner": "accomplish-ai",
             "repo": "coworker",
-            "stars": 10928
-          },
-          "first_seen": "2026-08-28T13:20:49.280Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NextPy",
-          "description": "Self-modifying framework for building agentic modular systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 675660259,
-            "language": "Python",
-            "last_commit": "2024-05-01T09:46:55Z",
-            "owner": "dot-agent",
-            "repo": "nextpy",
-            "stars": 2350
+            "stars": 10928,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -346,12 +640,59 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An auto-company works for 24/7 on your own PC - Windows/Linux/macOS.",
+            "homepage": null,
             "id": 1156645601,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-20T15:53:06Z",
+            "open_issues": 8,
             "owner": "MaxMiksa",
             "repo": "Auto-Company",
-            "stars": 2340
+            "stars": 2419,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:20:49.280Z"
+        },
+        {
+          "node_type": "item",
+          "title": "NextPy",
+          "description": "Self-modifying framework for building agentic modular systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🤖Self-Modifying Framework from the Future 🔮 World's First AMS",
+            "homepage": "https://dotagent.ai",
+            "id": 675660259,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2024-05-01T09:46:55Z",
+            "open_issues": 23,
+            "owner": "dot-agent",
+            "repo": "nextpy",
+            "stars": 2350,
+            "topics": [
+              "agent",
+              "agi",
+              "ai",
+              "ai-agents",
+              "autogpt",
+              "fastapi",
+              "fastapi-framework",
+              "fastapi-template",
+              "fullstack-development",
+              "gpt",
+              "llm",
+              "llmops",
+              "mlops",
+              "openai",
+              "pydantic",
+              "python",
+              "sqlmodel",
+              "streamlit",
+              "webdev",
+              "webdevelopment"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -362,12 +703,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across local, cloud, and edge environments.",
+            "homepage": "https://smythos.com",
             "id": 998134875,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-03T05:31:50Z",
+            "open_issues": 34,
             "owner": "SmythOS",
             "repo": "sre",
-            "stars": 1290
+            "stars": 1290,
+            "topics": [
+              "agent-framework",
+              "agents",
+              "agi",
+              "ai",
+              "ai-agents",
+              "artificial-intelligence",
+              "autogpt",
+              "autonomous-agents",
+              "chatgpt",
+              "langchain",
+              "llm",
+              "llmops",
+              "mcp",
+              "multi-agent",
+              "multi-agent-systems",
+              "n8n",
+              "openai",
+              "orchestration",
+              "rag",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -378,12 +745,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.",
+            "homepage": "https://open-agent.io/",
             "id": 1022925092,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-10T08:38:46Z",
+            "open_issues": 10,
             "owner": "AFK-surf",
             "repo": "open-agent",
-            "stars": 1004
+            "stars": 1004,
+            "topics": [
+              "agentic-ai",
+              "agentic-framework",
+              "agents",
+              "multiagent-reinforcement-learning",
+              "multiagent-systems",
+              "workspace"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -394,12 +773,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source, agent-first creative workspace.",
+            "homepage": "https://nodetool.ai/",
             "id": 777230015,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:59:32Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T22:54:16Z",
+            "open_issues": 4,
             "owner": "nodetool-ai",
             "repo": "nodetool",
-            "stars": 498
+            "stars": 498,
+            "topics": [
+              "anthropic",
+              "cerebras",
+              "cohere",
+              "deepseek",
+              "fal",
+              "gemini",
+              "groq",
+              "huggingface",
+              "kie",
+              "llama",
+              "lmstudio",
+              "mistral",
+              "moonshot",
+              "ollama",
+              "openai",
+              "openrouter",
+              "replicate",
+              "together",
+              "vllm",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -410,12 +815,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent traces you can run, not just read.",
+            "homepage": "https://kitaru.ai",
             "id": 1173563711,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:12:50Z",
+            "open_issues": 20,
             "owner": "zenml-io",
             "repo": "kitaru",
-            "stars": 268
+            "stars": 269,
+            "topics": [
+              "agent",
+              "agent-orchestration",
+              "agentic-ai",
+              "agents",
+              "ai-agents",
+              "checkpoints",
+              "durable-execution",
+              "llm",
+              "mcp",
+              "mlops",
+              "observability",
+              "pydantic",
+              "pydantic-ai",
+              "python",
+              "replay"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -426,12 +852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automating content and outreach in a GTM agency for early stage startups. Run locally with your hermes agents.",
+            "homepage": "https://www.trykami.app",
             "id": 1297996943,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-15T06:31:04Z",
+            "open_issues": 0,
             "owner": "kami-community",
             "repo": "kami",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -442,12 +873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Where agents live, and flourish. 🌿",
+            "homepage": " https://www.agents-shire.sh",
             "id": 1184126167,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-03T15:11:49Z",
+            "open_issues": 2,
             "owner": "victor36max",
             "repo": "shire",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -464,12 +900,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+            "homepage": "https://puter.com",
             "id": 766341786,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T23:14:25Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T02:36:24Z",
+            "open_issues": 21,
             "owner": "HeyPuter",
             "repo": "puter",
-            "stars": 43294
+            "stars": 43297,
+            "topics": [
+              "cloud",
+              "cloud-os",
+              "cloud-storage",
+              "desktop",
+              "desktop-environment",
+              "dropbox",
+              "good-first-issue",
+              "gui",
+              "javascript",
+              "nas",
+              "open-source",
+              "operating-system",
+              "os",
+              "osjs",
+              "puter",
+              "remote-desktop",
+              "storage",
+              "web-desktop",
+              "web-os",
+              "webtop"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -480,12 +942,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+            "homepage": "https://agent-tars.com",
             "id": 918932603,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T02:48:59Z",
+            "open_issues": 426,
             "owner": "bytedance",
             "repo": "UI-TARS-desktop",
-            "stars": 38732
+            "stars": 38738,
+            "topics": [
+              "agent",
+              "agent-tars",
+              "browser-use",
+              "computer-use",
+              "cowork",
+              "gui-agent",
+              "gui-operator",
+              "mcp",
+              "mcp-server",
+              "multimodal",
+              "tars",
+              "ui-tars",
+              "vision",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -496,12 +978,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+            "homepage": "https://www.projectnomad.us",
             "id": 1007827531,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:27:55Z",
+            "open_issues": 86,
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 36358
+            "stars": 36366,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -512,12 +999,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+            "homepage": "https://cua.ai",
             "id": 925270205,
             "language": "HTML",
-            "last_commit": "2026-08-28T08:31:12Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:50:03Z",
+            "open_issues": 737,
             "owner": "trycua",
             "repo": "cua",
-            "stars": 21979
+            "stars": 21999,
+            "topics": [
+              "agent",
+              "ai-agent",
+              "apple",
+              "computer-use",
+              "computer-use-agent",
+              "containerization",
+              "cua",
+              "desktop-automation",
+              "hacktoberfest",
+              "lume",
+              "macos",
+              "manus",
+              "operator",
+              "swift",
+              "virtualization",
+              "virtualization-framework",
+              "windows",
+              "windows-sandbox"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -528,12 +1039,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent S: an open agentic framework that uses computers like a human",
+            "homepage": "https://www.simular.ai",
             "id": 870189331,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T03:31:09Z",
+            "open_issues": 42,
             "owner": "simular-ai",
             "repo": "Agent-S",
-            "stars": 12201
+            "stars": 12202,
+            "topics": [
+              "agent-computer-interface",
+              "ai-agents",
+              "computer-automation",
+              "computer-use",
+              "computer-use-agent",
+              "cua",
+              "grounding",
+              "gui-agents",
+              "in-context-reinforcement-learning",
+              "memory",
+              "mllm",
+              "planning",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -544,12 +1074,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+            "homepage": "https://www.bytebot.ai/",
             "id": 926709003,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-12T19:35:46Z",
+            "open_issues": 72,
             "owner": "bytebot-ai",
             "repo": "bytebot",
-            "stars": 11087
+            "stars": 11087,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "ai-agents",
+              "ai-tools",
+              "anthropic",
+              "automation",
+              "bytebot",
+              "computer-use",
+              "computer-use-agent",
+              "cua",
+              "desktop",
+              "desktop-automation",
+              "docker",
+              "gemini",
+              "llm",
+              "mcp",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -560,12 +1115,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines.",
+            "homepage": "https://holaos.ai",
             "id": 1188521544,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T13:11:13Z",
+            "open_issues": 6,
             "owner": "holaboss-ai",
             "repo": "holaOS",
-            "stars": 10979
+            "stars": 11009,
+            "topics": [
+              "agent",
+              "agent-harness",
+              "agent-os",
+              "agentic",
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "artificial-intelligence",
+              "claude-code",
+              "codex",
+              "electron",
+              "holaboss",
+              "holaos",
+              "llm",
+              "mcp",
+              "memory",
+              "model-context-protocol",
+              "runtime",
+              "typescript",
+              "workspace"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -576,12 +1157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1134220362,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-13T10:56:45Z",
+            "open_issues": 13,
             "owner": "accomplish-ai",
             "repo": "coworker",
-            "stars": 10928
+            "stars": 10928,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -592,12 +1178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+            "homepage": "https://huggingface.co/spaces/pliny-the-prompter/",
             "id": 1171949255,
             "language": "Python",
-            "last_commit": "2026-08-28T00:25:57Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:55:36Z",
+            "open_issues": 9,
             "owner": "elder-plinius",
             "repo": "OBLITERATUS",
-            "stars": 8080
+            "stars": 8092,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -608,12 +1199,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+            "homepage": "https://skales.app",
             "id": 1175857225,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:07:49Z",
+            "open_issues": 1,
             "owner": "skalesapp",
             "repo": "skales",
-            "stars": 1731
+            "stars": 1732,
+            "topics": [
+              "agentic-ai",
+              "ai-agent",
+              "ai-assistant",
+              "android",
+              "automation",
+              "autonomous-agent",
+              "desktop-app",
+              "electron",
+              "ios",
+              "linux",
+              "llm",
+              "local-ai",
+              "local-first",
+              "macos",
+              "mcp",
+              "ollama",
+              "privacy",
+              "react-native",
+              "typescript",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -624,12 +1241,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Own your compute, own your intelligence. Time to build your Personal AI Data Center.",
+            "homepage": "https://autonomous.ai/computer",
             "id": 1042657355,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-21T11:07:50Z",
+            "open_issues": 1,
             "owner": "autonomous-ai",
             "repo": "autonomous-computer",
-            "stars": 1339
+            "stars": 1341,
+            "topics": [
+              "homelab",
+              "local-ai"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -646,12 +1271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+            "homepage": "https://crawl4ai.com",
             "id": 798201435,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T07:39:29Z",
+            "open_issues": 173,
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 79642
+            "stars": 79677,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -662,12 +1292,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+            "homepage": null,
             "id": 1165277268,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T05:36:18Z",
+            "open_issues": 103,
             "owner": "Panniantong",
             "repo": "Agent-Reach",
-            "stars": 76251
+            "stars": 76384,
+            "topics": [
+              "agent-infrastructure",
+              "ai-agent",
+              "ai-search",
+              "automation",
+              "bilibili",
+              "claude-code",
+              "cli",
+              "cursor",
+              "free-api",
+              "llm-tools",
+              "mcp",
+              "python",
+              "reddit-scraper",
+              "twitter-scraper",
+              "web-scraper",
+              "xiaohongshu",
+              "youtube-transcript"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -678,12 +1331,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+            "homepage": "https://browser-harness.com",
             "id": 1213049020,
             "language": "Python",
-            "last_commit": "2026-08-28T03:31:02Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:41:37Z",
+            "open_issues": 284,
             "owner": "browser-use",
             "repo": "browser-harness",
-            "stars": 17200
+            "stars": 17217,
+            "topics": [
+              "ai-agent",
+              "browser-agent",
+              "browser-automation",
+              "browser-use",
+              "browser-use-box",
+              "browser-use-cloud",
+              "cdp",
+              "cloud-browser",
+              "llm",
+              "persistent-browser",
+              "playwright",
+              "telegram-agent",
+              "vps-agent",
+              "web-automation"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -694,12 +1367,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖥️ Run AI Agent in your browser.",
+            "homepage": null,
             "id": 910986056,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-15T07:26:24Z",
+            "open_issues": 323,
             "owner": "browser-use",
             "repo": "web-ui",
-            "stars": 16298
+            "stars": 16299,
+            "topics": [
+              "ai-agent",
+              "browser-automation",
+              "browser-use-box",
+              "cloud-browser"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -710,12 +1393,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+            "homepage": "https://nanobrowser.ai",
             "id": 910418754,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T00:42:48Z",
+            "open_issues": 78,
             "owner": "nanobrowser",
             "repo": "nanobrowser",
-            "stars": 13691
+            "stars": 13694,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agents",
+              "ai-tools",
+              "automation",
+              "browser",
+              "browser-automation",
+              "browser-use",
+              "chrome-extension",
+              "comet",
+              "dia",
+              "extension",
+              "manus",
+              "mariner",
+              "multi-agent",
+              "n8n",
+              "nano",
+              "opensource",
+              "playwright",
+              "web-automation"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -726,12 +1435,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.",
+            "homepage": "https://browserless.io",
             "id": 111058386,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:44:56Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T20:09:59Z",
+            "open_issues": 12,
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13638
+            "stars": 13639,
+            "topics": [
+              "browserless",
+              "chrome",
+              "docker",
+              "firefox",
+              "nodejs",
+              "playwright",
+              "puppeteer",
+              "typescript",
+              "webkit",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -742,12 +1467,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
+            "homepage": "https://BrowserOS.com/neo",
             "id": 985839104,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T16:54:32Z",
+            "open_issues": 87,
             "owner": "browseros-ai",
             "repo": "BrowserOS",
-            "stars": 13386
+            "stars": 13387,
+            "topics": [
+              "agent",
+              "browser",
+              "browseros",
+              "chromium",
+              "hacktoberfest",
+              "linux",
+              "llm",
+              "lmstudio",
+              "macos",
+              "ollama",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -758,12 +1500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"WebVoyager: WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models\"",
+            "homepage": null,
             "id": 747508951,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-04T03:36:39Z",
+            "open_issues": 12,
             "owner": "MinorJerry",
             "repo": "WebVoyager",
-            "stars": 1123
+            "stars": 1123,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -774,12 +1521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-driven web automation agent that uses Playwright for browser interactions and LLM integration for intelligent decision-making. It's designed for reliable, adaptable web automation with robust element detection and contextual understanding. It's single agent by design, and it is built with getting solid benefit out of smaller models in mind.",
+            "homepage": null,
             "id": 938957277,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-06-04T16:54:13Z",
+            "open_issues": 0,
             "owner": "esinecan",
             "repo": "agentic-ai-browser",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -790,12 +1542,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "  description: \"An MCP server that enables LLMs to 'see' what's happening in browser-based games and applications through vectorized canvas visualization and debug information.",
+            "homepage": null,
             "id": 953205544,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-04T19:55:11Z",
+            "open_issues": 1,
             "owner": "monteslu",
             "repo": "vibe-eyes",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "ai",
+              "canvas",
+              "claude",
+              "debugging",
+              "game-development",
+              "llm",
+              "mcp",
+              "svg",
+              "vectorization",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -812,12 +1580,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "homepage": null,
             "id": 743230067,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T09:16:25Z",
+            "open_issues": 888,
             "owner": "RVC-Boss",
             "repo": "GPT-SoVITS",
-            "stars": 61302
+            "stars": 61309,
+            "topics": [
+              "text-to-speech",
+              "tts",
+              "vits",
+              "voice-clone",
+              "voice-cloneai",
+              "voice-cloning"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -828,12 +1608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source Frontier Voice AI",
+            "homepage": "https://microsoft.github.io/VibeVoice/",
             "id": 1044296738,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-24T09:24:29Z",
+            "open_issues": 184,
             "owner": "microsoft",
             "repo": "VibeVoice",
-            "stars": 53275
+            "stars": 53312,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -844,12 +1629,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SOTA Open Source TTS",
+            "homepage": "https://speech.fish.audio",
             "id": 702796244,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T08:55:50Z",
+            "open_issues": 14,
             "owner": "fishaudio",
             "repo": "fish-speech",
-            "stars": 32431
+            "stars": 32446,
+            "topics": [
+              "llama",
+              "transformer",
+              "tts",
+              "valle",
+              "vits",
+              "vqgan",
+              "vqvae"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -860,12 +1658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SoTA open-source TTS",
+            "homepage": "https://resemble-ai.github.io/chatterbox_demopage/",
             "id": 971241545,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-21T12:27:05Z",
+            "open_issues": 359,
             "owner": "resemble-ai",
             "repo": "chatterbox",
-            "stars": 26172
+            "stars": 26185,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -876,12 +1679,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "End-to-end realtime stack for connecting humans and AI",
+            "homepage": "https://docs.livekit.io",
             "id": 299832860,
             "language": "Go",
-            "last_commit": "2026-08-28T12:02:20Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:33:19Z",
+            "open_issues": 194,
             "owner": "livekit",
             "repo": "livekit",
-            "stars": 20552
+            "stars": 20566,
+            "topics": [
+              "golang",
+              "media-server",
+              "sfu",
+              "video",
+              "voice",
+              "voice-ai",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -892,12 +1708,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+            "homepage": null,
             "id": 969010919,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-19T21:11:55Z",
+            "open_issues": 91,
             "owner": "nari-labs",
             "repo": "dia",
-            "stars": 19385
+            "stars": 19385,
+            "topics": [
+              "ai",
+              "open-weight",
+              "text-to-speech"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -908,12 +1733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " State-of-the-art TTS model under 25MB 😻 ",
+            "homepage": null,
             "id": 1032248449,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T00:12:38Z",
+            "open_issues": 121,
             "owner": "KittenML",
             "repo": "KittenTTS",
-            "stars": 15411
+            "stars": 15412,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -924,12 +1754,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
+            "homepage": "https://docs.livekit.io/agents",
             "id": 707441527,
             "language": "Python",
-            "last_commit": "2026-08-28T12:58:56Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:44:21Z",
+            "open_issues": 799,
             "owner": "livekit",
             "repo": "agents",
-            "stars": 13220
+            "stars": 13388,
+            "topics": [
+              "agents",
+              "ai",
+              "openai",
+              "real-time",
+              "video",
+              "voice"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -940,12 +1782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TTS that fits in your CPU (and pocket)",
+            "homepage": null,
             "id": 1129863360,
             "language": "Python",
-            "last_commit": "2026-08-28T13:03:52Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T17:27:27Z",
+            "open_issues": 56,
             "owner": "kyutai-labs",
             "repo": "pocket-tts",
-            "stars": 9183
+            "stars": 9194,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -956,12 +1803,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+            "homepage": "https://blaizzy.github.io/mlx-audio/",
             "id": 895253710,
             "language": "Python",
-            "last_commit": "2026-08-27T16:29:04Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:31:50Z",
+            "open_issues": 105,
             "owner": "Blaizzy",
             "repo": "mlx-audio",
-            "stars": 7800
+            "stars": 7800,
+            "topics": [
+              "apple-silicon",
+              "audio-processing",
+              "mlx",
+              "multimodal",
+              "speech-recognition",
+              "speech-synthesis",
+              "speech-to-text",
+              "text-to-speech",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -972,12 +1834,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
+            "homepage": "https://map-yue.github.io",
             "id": 920995232,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-04T13:08:48Z",
+            "open_issues": 87,
             "owner": "multimodal-art-projection",
             "repo": "YuE",
-            "stars": 6405
+            "stars": 6407,
+            "topics": [
+              "ai",
+              "audio-generation",
+              "deep-learning",
+              "foundation-models",
+              "gpt",
+              "huggingface",
+              "llama",
+              "llms",
+              "music-generation",
+              "style-transfers",
+              "voice-cloning"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -988,12 +1867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "On-device TTS model by Neuphonic",
+            "homepage": null,
             "id": 1068475197,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-30T14:11:22Z",
+            "open_issues": 37,
             "owner": "neuphonic",
             "repo": "neutts",
-            "stars": 6256
+            "stars": 6256,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1004,12 +1888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and local neural text-to-speech engine",
+            "homepage": null,
             "id": 956792596,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-22T07:10:02Z",
+            "open_issues": 122,
             "owner": "OHF-Voice",
             "repo": "piper1-gpl",
-            "stars": 5305
+            "stars": 5311,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1020,12 +1909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Miso TTS is an 8 billion, highly emotive text-to-speech model",
+            "homepage": null,
             "id": 1244486617,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-09T20:41:00Z",
+            "open_issues": 20,
             "owner": "MisoLabsAI",
             "repo": "MisoTTS",
-            "stars": 3226
+            "stars": 3225,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1036,12 +1930,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI text-to-speech tool using the Kokoro model, supporting multiple languages, voices (with blending), and various input formats including EPUB books and PDF documents.",
+            "homepage": "https://huggingface.co/hexgrad/Kokoro-82M",
             "id": 916766950,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-22T22:24:48Z",
+            "open_issues": 17,
             "owner": "nazdridoy",
             "repo": "kokoro-tts",
-            "stars": 1819
+            "stars": 1820,
+            "topics": [
+              "audiobook",
+              "epub",
+              "kokoro",
+              "kokoro-tts",
+              "pdf",
+              "podcast",
+              "python",
+              "tts"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1052,12 +1960,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room, and get conversational responses. It remembers everything, knows location and time, can check the web, control Chrome, track nutrition, and more with support for unlimited MCPs / tools without context rot.",
+            "homepage": null,
             "id": 1040940947,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T00:54:18Z",
+            "open_issues": 119,
             "owner": "isair",
             "repo": "jarvis",
-            "stars": 1664
+            "stars": 1670,
+            "topics": [
+              "ai",
+              "assistant",
+              "health",
+              "machine-learning",
+              "mcp",
+              "nutrition",
+              "privacy",
+              "private",
+              "search",
+              "searching",
+              "voice"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1068,12 +1993,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Speech Language Model",
+            "homepage": "https://www.hume.ai/blog/opensource-tada",
             "id": 1175466161,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-11T17:59:55Z",
+            "open_issues": 19,
             "owner": "HumeAI",
             "repo": "tada",
-            "stars": 1009
+            "stars": 1009,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1084,12 +2014,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.",
+            "homepage": null,
             "id": 1121552218,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T03:13:30Z",
+            "open_issues": 18,
             "owner": "QwenAudio",
             "repo": "Fun-Audio-Chat",
-            "stars": 999
+            "stars": 999,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1100,12 +2035,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine",
+            "homepage": null,
             "id": 1243340887,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T09:44:01Z",
+            "open_issues": 11,
             "owner": "netease-youdao",
             "repo": "Confucius4-TTS",
-            "stars": 783
+            "stars": 784,
+            "topics": [
+              "audio",
+              "cross-lingual",
+              "deep-learning",
+              "fine-tuning",
+              "multi-lingual",
+              "python",
+              "pytorch",
+              "speech-synthesis",
+              "text-to-speech",
+              "tts",
+              "voice-clone",
+              "zero-shot-tts"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1116,12 +2069,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Liquid Audio - Speech-to-Speech audio models by Liquid AI",
+            "homepage": "http://www.liquid.ai",
             "id": 1066518688,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-05T03:49:38Z",
+            "open_issues": 10,
             "owner": "Liquid4All",
             "repo": "liquid-audio",
-            "stars": 567
+            "stars": 567,
+            "topics": [
+              "audio",
+              "foundation-models",
+              "lfm2"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1132,12 +2094,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A service to convert audio to facial blendshapes for lipsyncing and facial performances. ",
+            "homepage": null,
             "id": 897654836,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-11T20:16:07Z",
+            "open_issues": 24,
             "owner": "NVIDIA",
             "repo": "Audio2Face-3D-Samples",
-            "stars": 325
+            "stars": 325,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -1154,12 +2121,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code for DragGAN (SIGGRAPH 2023)",
+            "homepage": "https://vcai.mpi-inf.mpg.de/projects/DragGAN/",
             "id": 642323624,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-18T17:51:40Z",
+            "open_issues": 154,
             "owner": "XingangPan",
             "repo": "DragGAN",
-            "stars": 35751
+            "stars": 35752,
+            "topics": [
+              "artificial-intelligence",
+              "generative-adversarial-network",
+              "generative-models",
+              "image-manipulation"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1170,12 +2147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "homepage": "https://hpcaitech.github.io/Open-Sora/",
             "id": 760231710,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-09T01:52:40Z",
+            "open_issues": 13,
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29315
+            "stars": 29319,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1186,12 +2168,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+            "homepage": "https://invoke-ai.github.io/InvokeAI/",
             "id": 525592995,
             "language": "Python",
-            "last_commit": "2026-08-27T02:55:30Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:16:33Z",
+            "open_issues": 385,
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 28030
+            "stars": 28035,
+            "topics": [
+              "ai-art",
+              "artificial-intelligence",
+              "generative-art",
+              "image-generation",
+              "img2img",
+              "inpainting",
+              "latent-diffusion",
+              "linux",
+              "macos",
+              "outpainting",
+              "stable-diffusion",
+              "txt2img",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1202,12 +2203,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+            "homepage": "https://www.iopaint.com/",
             "id": 428292281,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-29T02:13:17Z",
+            "open_issues": 76,
             "owner": "Sanster",
             "repo": "IOPaint",
-            "stars": 23348
+            "stars": 23348,
+            "topics": [
+              "inpainting",
+              "lama",
+              "latent-diffusion",
+              "mat",
+              "pytorch",
+              "stable-diffusion",
+              "zits"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1218,12 +2232,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
+            "homepage": "https://www.duix.com/",
             "id": 907627874,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-21T07:06:36Z",
+            "open_issues": 420,
             "owner": "duixcom",
             "repo": "Duix-Avatar",
-            "stars": 14906
+            "stars": 14919,
+            "topics": [
+              "ai-avatar",
+              "ai-avatars",
+              "cloning",
+              "cloning-tool",
+              "digital-human",
+              "multimodal-ai",
+              "video-generation",
+              "video-synthesis"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1234,12 +2262,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1104481835,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-09T12:49:43Z",
+            "open_issues": 109,
             "owner": "Tongyi-MAI",
             "repo": "Z-Image",
-            "stars": 11958
+            "stars": 11959,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1250,12 +2283,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+            "homepage": "https://nvlabs.github.io/Sana/docs/",
             "id": 871368615,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:12:35Z",
+            "open_issues": 137,
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 8869
+            "stars": 8881,
+            "topics": [
+              "diffusion",
+              "dit",
+              "linear-transformer",
+              "nvfp4",
+              "pytorch",
+              "reinforcement-learning",
+              "sana",
+              "streaming-video",
+              "system-algorithm-deisgn",
+              "text-to-image-generation",
+              "text-to-video",
+              "transformers",
+              "video-generation",
+              "world-models"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1266,12 +2319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SkyReels-V2: Infinite-length Film Generative model",
+            "homepage": "https://platform.skyreels.ai",
             "id": 966698850,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-29T05:21:27Z",
+            "open_issues": 351,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7467
+            "stars": 7469,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1282,12 +2340,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+            "homepage": "https://modly3d.app",
             "id": 1184568969,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T17:14:24Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T16:11:39Z",
+            "open_issues": 62,
             "owner": "lightningpixel",
             "repo": "modly",
-            "stars": 7302
+            "stars": 7308,
+            "topics": [
+              "3d",
+              "ai-local",
+              "ai-tools",
+              "desktop-app",
+              "modly",
+              "open-source",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1298,12 +2369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TripoSR: Fast 3D Object Reconstruction from a Single Image",
+            "homepage": null,
             "id": 754064451,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-04T07:11:09Z",
+            "open_issues": 105,
             "owner": "VAST-AI-Research",
             "repo": "TripoSR",
-            "stars": 6898
+            "stars": 6901,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1314,12 +2390,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HunyuanVideo-1.5: A leading lightweight video generation model",
+            "homepage": "https://hunyuan.tencent.com/video/zh?tabIndex=0",
             "id": 1100328089,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-10T06:14:59Z",
+            "open_issues": 37,
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo-1.5",
-            "stars": 4536
+            "stars": 4537,
+            "topics": [
+              "image-to-video",
+              "text-to-video",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1330,12 +2415,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helios: Real Real-Time Long Video Generation Model",
+            "homepage": "https://pku-yuangroup.github.io/Helios-Page",
             "id": 1170755412,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T07:26:04Z",
+            "open_issues": 42,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2103
+            "stars": 2111,
+            "topics": [
+              "acceleration",
+              "diffusion",
+              "diffusion-model",
+              "diffusion-models",
+              "efficient-tuning",
+              "high-quality",
+              "image-to-video",
+              "image2video",
+              "interactive",
+              "long-context",
+              "long-video-generation",
+              "real-time",
+              "text-to-video",
+              "text2video",
+              "video-generation",
+              "video-generator",
+              "video-to-video",
+              "video2video",
+              "world-model",
+              "world-models"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1346,12 +2457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and open node based generative workflows. ",
+            "homepage": null,
             "id": 1109119251,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-06T18:18:19Z",
+            "open_issues": 16,
             "owner": "shrimbly",
             "repo": "node-banana",
-            "stars": 1554
+            "stars": 1554,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1362,12 +2478,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.",
+            "homepage": "https://www.skool.com/ai-agents-az/about?s1r",
             "id": 966014080,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-21T11:17:09Z",
+            "open_issues": 27,
             "owner": "gyoridavid",
             "repo": "short-video-maker",
-            "stars": 1315
+            "stars": 1316,
+            "topics": [
+              "faceless-video",
+              "instagram",
+              "instagram-reels",
+              "instagram-reels-automation",
+              "mcp",
+              "model-context-protocol",
+              "reels",
+              "remotion",
+              "shorts",
+              "shorts-automate",
+              "shorts-maker",
+              "tiktok",
+              "tiktok-creator",
+              "video-creation-tool",
+              "video-creator",
+              "video-generation",
+              "video-generator",
+              "video-maker",
+              "youtube",
+              "youtube-shorts"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1378,12 +2520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"FlashWorld: High-quality 3D Scene Generation within Seconds\" (ICLR 2026 Oral)",
+            "homepage": "https://imlixinyang.github.io/FlashWorld-Project-Page",
             "id": 1073577262,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-24T09:28:36Z",
+            "open_issues": 18,
             "owner": "imlixinyang",
             "repo": "FlashWorld",
-            "stars": 841
+            "stars": 841,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1394,12 +2541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Krea Realtime 14B. An open-source realtime AI video model.",
+            "homepage": "https://www.krea.ai/blog/krea-realtime-14b",
             "id": 1071935116,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-13T18:36:15Z",
+            "open_issues": 17,
             "owner": "krea-ai",
             "repo": "realtime-video",
-            "stars": 580
+            "stars": 580,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1410,12 +2562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-Time Physical Action-Conditioned Video Generation",
+            "homepage": "https://liuwei283.github.io/RealWonder/",
             "id": 1173980870,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-06T03:32:19Z",
+            "open_issues": 3,
             "owner": "liuwei283",
             "repo": "RealWonder",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1426,12 +2583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unlocking Iterative Reasoning for Any Image Editor",
+            "homepage": null,
             "id": 1111928970,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-18T14:22:39Z",
+            "open_issues": 3,
             "owner": "appletea233",
             "repo": "EditThinker",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1442,12 +2604,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Streaming Video Instruction Tuning",
+            "homepage": null,
             "id": 1116674209,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-25T02:39:51Z",
+            "open_issues": 10,
             "owner": "maifoundations",
             "repo": "Streamo",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1458,12 +2625,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Video Editing AI (Cut, Sync, and Subtitle with One Click!)",
+            "homepage": null,
             "id": 956082614,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-09-04T02:25:17Z",
+            "open_issues": 0,
             "owner": "MamtaRajpurohit",
             "repo": "Cutalyst",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -1480,12 +2652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+            "homepage": "https://colbymchenry.github.io/codegraph/",
             "id": 1137078255,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-26T17:09:09Z",
+            "open_issues": 454,
             "owner": "colbymchenry",
             "repo": "codegraph",
-            "stars": 68471
+            "stars": 68518,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1496,12 +2673,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
+            "homepage": "https://omo.dev",
             "id": 1108837393,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T10:00:30Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:33:08Z",
+            "open_issues": 987,
             "owner": "code-yeongyu",
             "repo": "oh-my-openagent",
-            "stars": 68466
+            "stars": 68490,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "claude",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "gemini",
+              "ide",
+              "openai",
+              "opencode",
+              "orchestration",
+              "tui",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1512,12 +2710,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": "https://voideditor.com",
             "id": 855528273,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T22:03:55Z",
+            "open_issues": 307,
             "owner": "voideditor",
             "repo": "void",
-            "stars": 28821
+            "stars": 28821,
+            "topics": [
+              "chatgpt",
+              "claude",
+              "copilot",
+              "cursor",
+              "developer-tools",
+              "editor",
+              "llm",
+              "open-source",
+              "openai",
+              "visual-studio-code",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1528,12 +2744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 Clone and recreate any website as a modern React app in seconds",
+            "homepage": null,
             "id": 1034478597,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-19T15:29:48Z",
+            "open_issues": 146,
             "owner": "firecrawl",
             "repo": "open-lovable",
-            "stars": 28339
+            "stars": 28343,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1544,12 +2765,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+            "homepage": "https://dyad.sh",
             "id": 964395174,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T07:16:19Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T17:14:32Z",
+            "open_issues": 263,
             "owner": "dyad-sh",
             "repo": "dyad",
-            "stars": 21326
+            "stars": 21328,
+            "topics": [
+              "ai-app-builder",
+              "anthropic",
+              "artificial-intelligence",
+              "bolt",
+              "deepseek",
+              "gemini",
+              "generative-ai",
+              "github",
+              "llm",
+              "llms",
+              "lovable",
+              "nextjs",
+              "ollama",
+              "openai",
+              "qwen",
+              "react",
+              "typescript",
+              "v0",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1560,12 +2806,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+            "homepage": "http://arxiv.org/abs/2512.07921",
             "id": 983246568,
             "language": "Python",
-            "last_commit": "2026-08-27T15:39:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:50:29Z",
+            "open_issues": 24,
             "owner": "HKUDS",
             "repo": "DeepCode",
-            "stars": 16442
+            "stars": 16443,
+            "topics": [
+              "agentic-coding",
+              "harness-engineering",
+              "llm-agent"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1576,12 +2831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()",
+            "homepage": null,
             "id": 1184397362,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-29T20:16:27Z",
+            "open_issues": 139,
             "owner": "mattpocock",
             "repo": "sandcastle",
-            "stars": 7709
+            "stars": 7716,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1592,12 +2852,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.",
+            "homepage": "https://claw-x.com",
             "id": 1150626239,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T10:19:47Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:19:55Z",
+            "open_issues": 40,
             "owner": "ValueCell-ai",
             "repo": "ClawX",
-            "stars": 7597
+            "stars": 7597,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "clawdbot",
+              "moltbot",
+              "openclaw",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1608,12 +2882,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.",
+            "homepage": "https://emdash.com",
             "id": 1046096502,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T13:06:59Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:54:26Z",
+            "open_issues": 202,
             "owner": "generalaction",
             "repo": "emdash",
-            "stars": 5519
+            "stars": 5527,
+            "topics": [
+              "agenticdevelopment",
+              "agenticdevelopmentenvironment",
+              "ai",
+              "claude-code",
+              "cli",
+              "coding-agents",
+              "codingagents",
+              "containerization",
+              "docker",
+              "gitworktrees",
+              "jira",
+              "linear",
+              "llm",
+              "openai",
+              "opensource",
+              "orchestration",
+              "parallel-agents",
+              "parallelexecution",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1624,12 +2923,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+            "homepage": "https://www.copilotkit.ai/openbot",
             "id": 1336502227,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T04:25:59Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:00:10Z",
+            "open_issues": 7,
             "owner": "CopilotKit",
             "repo": "OpenBot",
-            "stars": 3248
+            "stars": 3325,
+            "topics": [
+              "ag-ui",
+              "agent-governance",
+              "ai-agents",
+              "browser-automation",
+              "copilotkit",
+              "generative-ui",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1640,12 +2952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodeNomad: The command center that puts AI coding on steroids.",
+            "homepage": null,
             "id": 1087925615,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:38:02Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:38:10Z",
+            "open_issues": 31,
             "owner": "NeuralNomadsAI",
             "repo": "CodeNomad",
-            "stars": 2518
+            "stars": 2521,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1656,12 +2973,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.",
+            "homepage": "https://www.deepmyst.com",
             "id": 1106550266,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-05T16:42:04Z",
+            "open_issues": 17,
             "owner": "DeepMyst",
             "repo": "Mysti",
-            "stars": 1136
+            "stars": 1136,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "agentic-coding",
+              "agentic-workflow",
+              "agents",
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "ai-coding",
+              "claude-ai",
+              "claude-code",
+              "context-engineering",
+              "gemini",
+              "openai",
+              "openai-codex",
+              "openclaw",
+              "vibe-coding",
+              "visual-studio-code",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1672,12 +3015,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "See your agent think. Zero-config observability & governance for 26 AI agent runtimes: Claude Code, Cursor, OpenAI Codex, GitHub Copilot, Gemini CLI, Cline, OpenHands, Aider, Goose, OpenClaw, NVIDIA NemoClaw & more. Live token costs, sessions, tool calls, crons.",
+            "homepage": "https://clawmetry.com",
             "id": 1156882085,
             "language": "Python",
-            "last_commit": "2026-08-28T12:49:58Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:43:20Z",
+            "open_issues": 144,
             "owner": "vivekchand",
             "repo": "clawmetry",
-            "stars": 401
+            "stars": 401,
+            "topics": [
+              "agent-monitoring",
+              "ai-agent",
+              "ai-agents",
+              "aider",
+              "claude-code",
+              "clawmetry",
+              "codex",
+              "cost-tracking",
+              "cursor",
+              "developer-tools",
+              "gemini-cli",
+              "github-copilot",
+              "goose",
+              "llm",
+              "llm-observability",
+              "monitoring",
+              "observability",
+              "openclaw",
+              "opentelemetry",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1688,12 +3057,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create agentic front-end experiences for the web in VanillaJS™️. Lightweight, extensible, and WebMCP-native.",
+            "homepage": "https://persona-chat.dev",
             "id": 1132293245,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:49:54Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:41:01Z",
+            "open_issues": 6,
             "owner": "runtypelabs",
             "repo": "persona",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "agentic-ai",
+              "ai",
+              "oss",
+              "ui",
+              "vanillajs",
+              "web",
+              "webmcp"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -1710,12 +3092,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.",
+            "homepage": "https://unsloth.ai/docs",
             "id": 725205304,
             "language": "Python",
-            "last_commit": "2026-08-28T13:05:53Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T05:05:34Z",
+            "open_issues": 1385,
             "owner": "unslothai",
             "repo": "unsloth",
-            "stars": 75031
+            "stars": 75087,
+            "topics": [
+              "agent",
+              "ai",
+              "chatgpt",
+              "deepseek",
+              "fine-tuning",
+              "gemma",
+              "image-generation",
+              "llama",
+              "llm",
+              "llms",
+              "openai",
+              "python",
+              "qwen",
+              "reinforcement-learning",
+              "self-hosted",
+              "stable-diffusion",
+              "text-to-speech",
+              "tts",
+              "ui",
+              "unsloth"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1726,12 +3134,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+            "homepage": "https://docs.headroomlabs.ai/docs",
             "id": 1129940957,
             "language": "Python",
-            "last_commit": "2026-08-28T13:11:43Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:51:00Z",
+            "open_issues": 571,
             "owner": "headroomlabs-ai",
             "repo": "headroom",
-            "stars": 67886
+            "stars": 67942,
+            "topics": [
+              "agent",
+              "ai",
+              "anthropic",
+              "claude-code",
+              "compression",
+              "context-engineering",
+              "context-window",
+              "cursor",
+              "fastapi",
+              "langchain",
+              "llm",
+              "mcp",
+              "openai",
+              "prompt-engineering",
+              "proxy",
+              "python",
+              "rag",
+              "token-optimization",
+              "tokens",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1742,12 +3176,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+            "homepage": "https://docs.litellm.ai/docs/",
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-28T13:13:40Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:09:51Z",
+            "open_issues": 4854,
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57477
+            "stars": 57507,
+            "topics": [
+              "ai-gateway",
+              "anthropic",
+              "azure-openai",
+              "bedrock",
+              "gateway",
+              "langchain",
+              "litellm",
+              "llm",
+              "llm-gateway",
+              "llmops",
+              "mcp-gateway",
+              "openai",
+              "openai-proxy",
+              "rust",
+              "rust-ai",
+              "vertex-ai"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1758,12 +3214,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+            "homepage": "https://localai.io",
             "id": 615869301,
             "language": "Go",
-            "last_commit": "2026-08-28T12:06:36Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:16:01Z",
+            "open_issues": 223,
             "owner": "mudler",
             "repo": "LocalAI",
-            "stars": 48721
+            "stars": 48727,
+            "topics": [
+              "agents",
+              "ai",
+              "api",
+              "audio-generation",
+              "decentralized",
+              "distributed",
+              "image-generation",
+              "libp2p",
+              "llama",
+              "llm",
+              "mamba",
+              "mcp",
+              "musicgen",
+              "object-detection",
+              "rerank",
+              "stable-diffusion",
+              "text-generation",
+              "tts"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1774,12 +3254,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+            "homepage": null,
             "id": 1158588224,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:53:58Z",
+            "open_issues": 66,
             "owner": "AlexsJones",
             "repo": "llmfit",
-            "stars": 34420
+            "stars": 34466,
+            "topics": [
+              "gguf",
+              "llm",
+              "localai",
+              "mlx",
+              "skill",
+              "unsloth"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1790,12 +3282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+            "homepage": "https://freellmapi.co",
             "id": 1217040185,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T00:05:52Z",
+            "open_issues": 67,
             "owner": "tashfeenahmed",
             "repo": "freellmapi",
-            "stars": 21336
+            "stars": 21713,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1806,12 +3303,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-speed Large Language Model Serving for Local Deployment",
+            "homepage": null,
             "id": 731842419,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-05-11T06:48:06Z",
+            "open_issues": 129,
             "owner": "Tiiny-AI",
             "repo": "PowerInfer",
-            "stars": 9756
+            "stars": 9756,
+            "topics": [
+              "large-language-models",
+              "llama",
+              "llm",
+              "llm-inference",
+              "local-inference"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -1828,12 +3336,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+            "homepage": "https://strix.ai",
             "id": 1032808806,
             "language": "Python",
-            "last_commit": "2026-08-28T03:54:09Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:46:50Z",
+            "open_issues": 324,
             "owner": "usestrix",
             "repo": "strix",
-            "stars": 59008
+            "stars": 59131,
+            "topics": [
+              "agents",
+              "ai-hacking",
+              "ai-penetration-testing",
+              "ai-pentesting",
+              "ai-security",
+              "artificial-intelligence",
+              "bug-bounty",
+              "code-quality",
+              "ctf-tools",
+              "cybersecurity",
+              "cybersecurity-tools",
+              "ethical-hacking",
+              "hacking",
+              "llm-security",
+              "offensive-security",
+              "penetration-testing",
+              "pentesting-tools",
+              "red-teaming",
+              "security",
+              "security-automation"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1844,12 +3378,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+            "homepage": "https://keygraph.io/",
             "id": 1065059442,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T01:52:16Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T19:18:58Z",
+            "open_issues": 31,
             "owner": "KeygraphHQ",
             "repo": "shannon",
-            "stars": 47267
+            "stars": 47278,
+            "topics": [
+              "ai-penetration-testing",
+              "ai-security",
+              "api-security",
+              "appsec",
+              "ci-cd",
+              "cybersecurity",
+              "devsecops",
+              "ethical-hacking",
+              "offensive-security",
+              "owasp",
+              "penetration-testing",
+              "pentesting",
+              "pentesting-tools",
+              "red-teaming",
+              "sarif",
+              "security",
+              "security-audit",
+              "security-automation",
+              "security-testing",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1860,12 +3420,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+            "homepage": "https://pentagi.com",
             "id": 913030762,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-06T11:10:55Z",
+            "open_issues": 51,
             "owner": "vxcontrol",
             "repo": "pentagi",
-            "stars": 22115
+            "stars": 22141,
+            "topics": [
+              "ai-agents",
+              "ai-security-tool",
+              "anthropic",
+              "autonomous-agents",
+              "golang",
+              "gpt",
+              "graphql",
+              "multi-agent-system",
+              "offensive-security",
+              "open-source",
+              "openai",
+              "penetration-testing",
+              "penetration-testing-tools",
+              "react",
+              "security-automation",
+              "security-testing",
+              "security-tools",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1876,12 +3460,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+            "homepage": "https://docs.nvidia.com/skills/scanning-agent-skills",
             "id": 1187630119,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:41:21Z",
+            "open_issues": 83,
             "owner": "NVIDIA",
             "repo": "SkillSpector",
-            "stars": 15067
+            "stars": 15143,
+            "topics": [
+              "agent-security",
+              "agent-skills",
+              "agentic-ai",
+              "ai-security",
+              "claude-code",
+              "mcp",
+              "prompt-injection",
+              "security-scanner",
+              "security-tools",
+              "security-workflow",
+              "supply-chain-security"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1892,12 +3493,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.",
+            "homepage": "https://onecli.sh",
             "id": 1175900220,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T06:56:07Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:22:50Z",
+            "open_issues": 131,
             "owner": "onecli",
             "repo": "onecli",
-            "stars": 3422
+            "stars": 3423,
+            "topics": [
+              "ai-agents",
+              "cli",
+              "mcp",
+              "nodejs",
+              "postgres",
+              "rust",
+              "secret-management",
+              "security",
+              "security-tools",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1908,12 +3525,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools.",
+            "homepage": null,
             "id": 777597786,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T05:29:56Z",
+            "open_issues": 12,
             "owner": "Armur-Ai",
             "repo": "Pentest-Swarm-AI",
-            "stars": 2392
+            "stars": 2394,
+            "topics": [
+              "ai-agents",
+              "bug-bounty",
+              "cybersecurity",
+              "offensive-security",
+              "penetration-testing",
+              "penetration-testing-framework",
+              "penetration-testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1924,12 +3554,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.",
+            "homepage": null,
             "id": 1124754056,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:54:50Z",
+            "open_issues": 15,
             "owner": "samugit83",
             "repo": "redamon",
-            "stars": 2360
+            "stars": 2361,
+            "topics": [
+              "agentic-ai",
+              "ai",
+              "cybersecurity",
+              "ethical-hacking",
+              "ethical-hacking-tools",
+              "exploitation",
+              "metasploit",
+              "osint",
+              "penetration-testing",
+              "red-team"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1940,12 +3586,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eBPF-powered silent observer for containerized runtimes, built for malware analysis sandboxes and Agentic AI monitoring.",
+            "homepage": "https://beelzebub.ai",
             "id": 1158068996,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-24T11:41:15Z",
+            "open_issues": 3,
             "owner": "beelzebub-labs",
             "repo": "azazel",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "ebpf",
+              "forensics",
+              "malware-analysis",
+              "runtime",
+              "sandbox"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -1962,12 +3619,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+            "homepage": "https://www.paddleocr.com",
             "id": 262296122,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T11:59:34Z",
+            "open_issues": 235,
             "owner": "PaddlePaddle",
             "repo": "PaddleOCR",
-            "stars": 88394
+            "stars": 88419,
+            "topics": [
+              "ai4science",
+              "chineseocr",
+              "document-parsing",
+              "document-translation",
+              "kie",
+              "ocr",
+              "paddleocr-vl",
+              "pdf-extractor-rag",
+              "pdf-parser",
+              "pdf2markdown",
+              "pp-ocr",
+              "pp-structure",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1978,12 +3654,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+            "homepage": "https://understand-anything.com/",
             "id": 1182081931,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:38:15Z",
+            "open_issues": 293,
             "owner": "Egonex-AI",
             "repo": "Understand-Anything",
-            "stars": 80837
+            "stars": 80900,
+            "topics": [
+              "antigravity-skills",
+              "business-knowledge",
+              "claude-code",
+              "claude-skills",
+              "codebase-analysis",
+              "codex",
+              "codex-skills",
+              "developer-tools-ai-agent",
+              "gemini-cli-skills",
+              "karpathy-llm-wiki",
+              "knowledge-base",
+              "knowledge-graph",
+              "memory",
+              "opencode-skills",
+              "pi-agent",
+              "understandcode",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -1994,12 +3693,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get your documents ready for gen AI",
+            "homepage": "https://docling-project.github.io/docling",
             "id": 826168160,
             "language": "Python",
-            "last_commit": "2026-08-28T12:56:20Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:20:13Z",
+            "open_issues": 979,
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65689
+            "stars": 65710,
+            "topics": [
+              "ai",
+              "convert",
+              "document-parser",
+              "document-parsing",
+              "documents",
+              "docx",
+              "html",
+              "markdown",
+              "pdf",
+              "pdf-converter",
+              "pdf-to-json",
+              "pdf-to-text",
+              "pptx",
+              "tables",
+              "xlsx"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2010,12 +3730,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+            "homepage": "https://pathway.com",
             "id": 571186647,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T05:31:40Z",
+            "open_issues": 35,
             "owner": "pathwaycom",
             "repo": "pathway",
-            "stars": 62375
+            "stars": 62374,
+            "topics": [
+              "batch-processing",
+              "data-analytics",
+              "data-pipelines",
+              "data-processing",
+              "dataflow",
+              "etl",
+              "etl-framework",
+              "iot-analytics",
+              "kafka",
+              "machine-learning-algorithms",
+              "pathway",
+              "python",
+              "real-time",
+              "rust",
+              "stream-processing",
+              "streaming",
+              "time-series-analysis"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2026,12 +3769,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Real-Time Knowledge Graphs for AI Agents",
+            "homepage": "https://help.getzep.com/graphiti",
             "id": 840056306,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:11:19Z",
+            "open_issues": 484,
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 30377
+            "stars": 30387,
+            "topics": [
+              "agents",
+              "graph",
+              "llms",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2042,12 +3795,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+            "homepage": null,
             "id": 858798469,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-25T17:52:37Z",
+            "open_issues": 89,
             "owner": "allenai",
             "repo": "olmocr",
-            "stars": 19399
+            "stars": 19399,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2058,12 +3816,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.",
+            "homepage": "https://memorilabs.ai",
             "id": 1025381911,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T23:44:53Z",
+            "open_issues": 33,
             "owner": "MemoriLabs",
             "repo": "Memori",
-            "stars": 16258
+            "stars": 16263,
+            "topics": [
+              "agent",
+              "agent-memory",
+              "agenticai",
+              "ai",
+              "ai-memory",
+              "claude-code",
+              "enterprise",
+              "hermes",
+              "llm",
+              "long-short-term-memory",
+              "memory",
+              "memory-management",
+              "openclaw",
+              "python",
+              "rag",
+              "state-management",
+              "stateful",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2074,12 +3856,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal memory across agents",
+            "homepage": "https://memu.pro",
             "id": 1028070615,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T08:52:39Z",
+            "open_issues": 117,
             "owner": "NevaMind-AI",
             "repo": "memU",
-            "stars": 14352
+            "stars": 14353,
+            "topics": [
+              "agent-memory",
+              "claude-skills",
+              "harness",
+              "loop-engineering",
+              "mcp",
+              "memory",
+              "openclaw",
+              "openclaw-skills",
+              "sandbox",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2090,12 +3888,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+            "homepage": "https://www.datalab.to",
             "id": 1072539730,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-26T10:26:47Z",
+            "open_issues": 58,
             "owner": "datalab-to",
             "repo": "chandra",
-            "stars": 12180
+            "stars": 12181,
+            "topics": [
+              "ai",
+              "ocr"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2106,12 +3912,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
+            "homepage": "https://memos.openmem.net",
             "id": 1014729376,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:35:30Z",
+            "open_issues": 58,
             "owner": "MemTensor",
             "repo": "MemOS",
-            "stars": 11065
+            "stars": 11071,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "ai",
+              "ai-agents",
+              "chatgpt",
+              "claude",
+              "deepseek-harness",
+              "dsh-plugin",
+              "hermes",
+              "llm",
+              "long-term-memory",
+              "mcp",
+              "memory",
+              "memory-management",
+              "openclaw",
+              "rag",
+              "self-evolving",
+              "self-hosted",
+              "skills",
+              "token-savings"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2122,12 +3954,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
+            "homepage": null,
             "id": 982697710,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-25T06:34:12Z",
+            "open_issues": 77,
             "owner": "bytedance",
             "repo": "Dolphin",
-            "stars": 9048
+            "stars": 9048,
+            "topics": [
+              "document-analysis",
+              "layout-analysis",
+              "ocr",
+              "parser",
+              "pdf",
+              "pdf-converter",
+              "pdf-parser",
+              "python",
+              "vlm-ocr"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2138,12 +3985,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+            "homepage": "https://www.falkordb.com/",
             "id": 668673665,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T13:38:22Z",
+            "open_issues": 636,
             "owner": "FalkorDB",
             "repo": "FalkorDB",
-            "stars": 5678
+            "stars": 5686,
+            "topics": [
+              "cloud-database",
+              "database",
+              "database-as-a-service",
+              "developer-tools",
+              "devtools",
+              "graph-database",
+              "graphrag",
+              "knowledge-graph",
+              "realtime-database"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2154,12 +4016,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts.",
+            "homepage": null,
             "id": 1047965761,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T08:24:10Z",
+            "open_issues": 3,
             "owner": "CaviraOSS",
             "repo": "PageLM",
-            "stars": 1885
+            "stars": 1898,
+            "topics": [
+              "ai",
+              "docker",
+              "edtech",
+              "education",
+              "flashcards",
+              "javascript",
+              "langchain",
+              "nodejs",
+              "notebooklm",
+              "notes",
+              "oss",
+              "pagelm",
+              "podcast",
+              "quizzes",
+              "rag",
+              "react",
+              "study-tools",
+              "tailwindcss",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2170,12 +4058,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.",
+            "homepage": "https://unbody.io",
             "id": 959346743,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-14T11:27:16Z",
+            "open_issues": 3,
             "owner": "unbody-io",
             "repo": "unbody",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "agentic-ai",
+              "ai-native",
+              "backend",
+              "chatbot",
+              "data-enhancement",
+              "data-ingestion",
+              "developer-tools",
+              "etl-pipeline",
+              "generative-ai",
+              "knowledge-base",
+              "llm",
+              "rag",
+              "supabase-alternative",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2186,12 +4094,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Native Data Platform: explore, clean, transform and govern your data warehouse, all from one place.",
+            "homepage": "https://www.myriade.ai",
             "id": 614517096,
             "language": "Shell",
-            "last_commit": "2026-08-28T12:32:42Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T15:14:55Z",
+            "open_issues": 0,
             "owner": "myriade-ai",
             "repo": "myriade",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "business-intelligence",
+              "chatgpt",
+              "postgres",
+              "snowflake",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -2208,12 +4129,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+            "homepage": null,
             "id": 943398999,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-08-11T13:01:09Z",
+            "open_issues": 160,
             "owner": "x1xhlol",
             "repo": "system-prompts-and-models-of-ai-tools",
-            "stars": 143195
+            "stars": 143204,
+            "topics": [
+              "ai",
+              "bolt",
+              "cluely",
+              "copilot",
+              "cursor",
+              "cursorai",
+              "devin",
+              "github-copilot",
+              "lovable",
+              "open-source",
+              "perplexity",
+              "replit",
+              "system-prompts",
+              "trae",
+              "trae-ai",
+              "trae-ide",
+              "v0",
+              "vscode",
+              "windsurf",
+              "windsurf-ai"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2224,12 +4171,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+            "homepage": null,
             "id": 957658915,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-21T14:37:40Z",
+            "open_issues": 27,
             "owner": "humanlayer",
             "repo": "12-factor-agents",
-            "stars": 25544
+            "stars": 25554,
+            "topics": [
+              "12-factor",
+              "12-factor-agents",
+              "agents",
+              "ai",
+              "context-window",
+              "framework",
+              "llms",
+              "memory",
+              "orchestration",
+              "prompt-engineering",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2240,12 +4204,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📋 A list of open LLMs available for commercial use.",
+            "homepage": null,
             "id": 636787031,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-02-13T06:37:12Z",
+            "open_issues": 10,
             "owner": "eugeneyan",
             "repo": "open-llms",
-            "stars": 12857
+            "stars": 12859,
+            "topics": [
+              "commercial",
+              "large-language-models",
+              "llm",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -2262,12 +4236,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+            "homepage": "https://openclaw.ai",
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T13:19:21Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T05:05:36Z",
+            "open_issues": 5729,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387904
+            "stars": 387951,
+            "topics": [
+              "ai",
+              "assistant",
+              "crustacean",
+              "molty",
+              "openclaw",
+              "own-your-data",
+              "personal"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2278,12 +4265,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+            "homepage": "https://openwebui.com",
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-27T23:24:19Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:31:09Z",
+            "open_issues": 226,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 150210
+            "stars": 150266,
+            "topics": [
+              "ai",
+              "llm",
+              "llm-ui",
+              "llm-webui",
+              "llms",
+              "mcp",
+              "ollama",
+              "ollama-webui",
+              "open-webui",
+              "openai",
+              "openapi",
+              "rag",
+              "self-hosted",
+              "ui",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2294,12 +4302,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+            "homepage": "https://airi.moeru.ai/docs/",
             "id": 896924279,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T11:37:44Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:45:39Z",
+            "open_issues": 196,
             "owner": "moeru-ai",
             "repo": "airi",
-            "stars": 48519
+            "stars": 48543,
+            "topics": [
+              "ai-companion",
+              "ai-vtuber",
+              "airi",
+              "digital-life",
+              "grok-companion",
+              "live2d",
+              "neuro-sama",
+              "neurosama",
+              "openclaw",
+              "vrm",
+              "vtuber"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2310,12 +4335,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+            "homepage": "https://jan.ai/",
             "id": 679506386,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T11:52:37Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:31:22Z",
+            "open_issues": 498,
             "owner": "janhq",
             "repo": "jan",
-            "stars": 44222
+            "stars": 44234,
+            "topics": [
+              "chatgpt",
+              "gpt",
+              "llamacpp",
+              "llm",
+              "localai",
+              "open-source",
+              "self-hosted",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2326,12 +4365,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+            "homepage": "https://librechat.ai/",
             "id": 600596928,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T13:19:03Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:35:01Z",
+            "open_issues": 734,
             "owner": "danny-avila",
             "repo": "LibreChat",
-            "stars": 42556
+            "stars": 42577,
+            "topics": [
+              "ai",
+              "anthropic",
+              "artifacts",
+              "aws",
+              "azure",
+              "chatgpt",
+              "chatgpt-clone",
+              "claude",
+              "clone",
+              "deepseek",
+              "gemini",
+              "google",
+              "gpt-5",
+              "librechat",
+              "mcp",
+              "o1",
+              "openai",
+              "responses-api",
+              "vision",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2342,12 +4407,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+            "homepage": "https://khoj.dev",
             "id": 396569538,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-02T01:55:40Z",
+            "open_issues": 144,
             "owner": "khoj-ai",
             "repo": "khoj",
-            "stars": 36745
+            "stars": 36760,
+            "topics": [
+              "agent",
+              "ai",
+              "assistant",
+              "chat",
+              "chatgpt",
+              "emacs",
+              "image-generation",
+              "llama3",
+              "llamacpp",
+              "llm",
+              "obsidian",
+              "obsidian-md",
+              "offline-llm",
+              "productivity",
+              "rag",
+              "research",
+              "self-hosted",
+              "semantic-search",
+              "stt",
+              "whatsapp-ai"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2358,12 +4449,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+            "homepage": "https://www.eigent.ai",
             "id": 1028492186,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:47:59Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T14:15:27Z",
+            "open_issues": 213,
             "owner": "eigent-ai",
             "repo": "eigent",
-            "stars": 15147
+            "stars": 15149,
+            "topics": [
+              "agent-framework",
+              "agent-skills",
+              "agentic-ai",
+              "agentic-workflow",
+              "claude-cowork",
+              "claude-cowork-alternative",
+              "claude-cowork-free",
+              "desktop-agent",
+              "multi-agent-systems"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2374,12 +4480,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+            "homepage": "https://omi.me",
             "id": 776121034,
             "language": "Python",
-            "last_commit": "2026-08-28T12:33:07Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:32:21Z",
+            "open_issues": 616,
             "owner": "BasedHardware",
             "repo": "omi",
-            "stars": 13291
+            "stars": 13318,
+            "topics": [
+              "ai",
+              "app",
+              "bci",
+              "c",
+              "flutter",
+              "friend",
+              "mobile",
+              "necklace",
+              "nextjs",
+              "omi",
+              "personas",
+              "python",
+              "smartglasses",
+              "summary",
+              "transcription",
+              "wearable"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2390,12 +4518,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source codebase powering HuggingChat",
+            "homepage": "https://huggingface.co/chat",
             "id": 603085008,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:05:04Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:15:00Z",
+            "open_issues": 274,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10916
+            "stars": 10918,
+            "topics": [
+              "chatgpt",
+              "hacktoberfest",
+              "huggingface",
+              "llm",
+              "svelte",
+              "svelte-kit",
+              "sveltekit",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2406,12 +4549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
+            "homepage": null,
             "id": 1206471102,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-23T21:04:17Z",
+            "open_issues": 46,
             "owner": "cloudflare",
             "repo": "agentic-inbox",
-            "stars": 7011
+            "stars": 7019,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2422,12 +4570,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.",
+            "homepage": "https://claraverse.space",
             "id": 946153980,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T16:56:59Z",
+            "open_issues": 6,
             "owner": "claraverse-space",
             "repo": "ClaraVerse",
-            "stars": 3895
+            "stars": 3895,
+            "topics": [
+              "hacktoberfest",
+              "llm",
+              "ollama",
+              "opensourcellms",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2438,12 +4597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1063452341,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-15T02:55:20Z",
+            "open_issues": 46,
             "owner": "character-ai",
             "repo": "Ovi",
-            "stars": 1749
+            "stars": 1749,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2454,12 +4618,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Newelle - Your Ultimate Virtual Assistant",
+            "homepage": "https://newelle.qsk.me",
             "id": 652134847,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T15:20:38Z",
+            "open_issues": 21,
             "owner": "qwersyk",
             "repo": "Newelle",
-            "stars": 1450
+            "stars": 1451,
+            "topics": [
+              "adwaita",
+              "ai",
+              "app",
+              "gnome",
+              "gtk",
+              "gtk4",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2470,12 +4647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1165169395,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-02-24T14:14:52Z",
+            "open_issues": 1,
             "owner": "dinoki-ai",
             "repo": "osaurus",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -2492,12 +4674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Generative UI framework",
+            "homepage": "https://json-render.dev",
             "id": 1134411737,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T22:20:41Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:45:05Z",
+            "open_issues": 102,
             "owner": "vercel-labs",
             "repo": "json-render",
-            "stars": 16049
+            "stars": 16053,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2508,12 +4695,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+            "homepage": "https://open-sandbox.ai",
             "id": 1118085970,
             "language": "Go",
-            "last_commit": "2026-08-28T05:01:04Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T15:05:53Z",
+            "open_issues": 171,
             "owner": "opensandbox-group",
             "repo": "OpenSandbox",
-            "stars": 14794
+            "stars": 14803,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-infra",
+              "kubernetes",
+              "sandbox"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2524,12 +4722,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+            "homepage": "https://github.com/zilliztech/claude-context/tree/master/docs",
             "id": 997125912,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-14T12:00:38Z",
+            "open_issues": 144,
             "owner": "zilliztech",
             "repo": "claude-context",
-            "stars": 12451
+            "stars": 12455,
+            "topics": [
+              "agent",
+              "agentic-rag",
+              "ai-coding",
+              "claude-code",
+              "code-generation",
+              "code-search",
+              "cursor",
+              "embedding",
+              "gemini-cli",
+              "mcp",
+              "merkle-tree",
+              "nodejs",
+              "openai",
+              "rag",
+              "semantic-search",
+              "typescript",
+              "vector-database",
+              "vibe-coding",
+              "voyage-ai",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2540,12 +4764,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale",
+            "homepage": "https://www.klavis.ai/",
             "id": 965974441,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-01T21:21:04Z",
+            "open_issues": 294,
             "owner": "Klavis-AI",
             "repo": "klavis",
-            "stars": 5795
+            "stars": 5796,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "api",
+              "developer-tools",
+              "discord",
+              "function-calling",
+              "integration",
+              "llm",
+              "mcp",
+              "mcp-client",
+              "mcp-server",
+              "oauth2",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2556,12 +4800,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect any AI model to 1200+ integrations (MCP, CLI, API)",
+            "homepage": "https://metorial.com",
             "id": 965998145,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T11:33:13Z",
+            "open_issues": 1,
             "owner": "metorial",
             "repo": "metorial",
-            "stars": 3349
+            "stars": 3350,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "agentic-workflow",
+              "container",
+              "docker",
+              "mcp",
+              "modelcontextprotocol",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         },
@@ -2572,12 +4830,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vibe coding should have human in the loop! interactive-mcp: Local, cross-platform MCP server for interact with your AI Agent",
+            "homepage": null,
             "id": 972684477,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-20T17:25:27Z",
+            "open_issues": 8,
             "owner": "ttommyth",
             "repo": "interactive-mcp",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "mcp",
+              "mcp-server",
+              "vibe-coding",
+              "vibecoding"
+            ]
           },
           "first_seen": "2026-08-28T13:20:49.280Z"
         }
@@ -2586,15 +4854,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:20:49.280Z",
+    "last_updated": "2026-08-29T05:06:40.719Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome open source projects for creating agentic operating systems, AI agents, and tools for the future of autonomous computing.",
+      "homepage": null,
       "id": 1146638522,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-26T00:32:02Z",
+      "open_issues": 11,
       "owner": "Egv2",
       "repo": "awesome-agentos",
-      "stars": 60
+      "stars": 60,
+      "topics": [
+        "agent-frameworks",
+        "agentic-os",
+        "agentos",
+        "ai-agents",
+        "ai-agents-automation",
+        "ai-agents-framework",
+        "autonomous-agents",
+        "awesome",
+        "awesome-list",
+        "llm"
+      ]
     },
     "original_repository_sha": "f425ed8315a37177b8cfc0cc601b3139119afed0",
     "enhanced_repository": "enhansome/enhansome-agentos",
