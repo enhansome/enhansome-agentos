@@ -21,36 +21,36 @@
 
 Frameworks for building, deploying, and managing multi-agent systems.
 
-* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 260,987 | 🐛 53,191 | 🌐 Python | 📅 2026-11-06 - Adaptive AI agent platform built on the Hermes model family.
-* [n8n](https://github.com/n8n-io/n8n) ⭐ 209,671 | 🐛 1,214 | 🌐 TypeScript | 📅 2026-11-06 - Fair-code workflow automation platform with native AI capabilities and 400+ integrations.
-* [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,917 | 🐛 692 | 🌐 Python | 📅 2026-11-06 - Experimental open-source application showcasing GPT-4 capabilities for autonomous tasks.
-* [Langflow](https://github.com/langflow-ai/langflow) ⭐ 156,375 | 🐛 1,314 | 🌐 Python | 📅 2026-11-06 - Low-code platform for building and deploying AI-powered agents and workflows.
-* [Pi](https://github.com/earendil-works/pi) ⭐ 120,390 | 🐛 263 | 🌐 TypeScript | 📅 2026-11-06 - Agent toolkit providing a unified multi-provider LLM API, an agent runtime with tool calling, a terminal UI, and a self-extensible coding agent CLI.
-* [autoresearch](https://github.com/karpathy/autoresearch) ⭐ 99,340 | 🐛 196 | 🌐 Python | 📅 2026-03-26 - AI agents that run research on single-GPU training automatically.
-* [DeerFlow](https://github.com/bytedance/deer-flow) ⭐ 85,055 | 🐛 1,058 | 🌐 Python | 📅 2026-11-06 - Open-source SuperAgent harness with sandboxes, memories, tools, and subagents.
-* [MiroFish](https://github.com/666ghj/MiroFish) ⭐ 84,378 | 🐛 236 | 🌐 Python | 📅 2026-10-16 - Swarm-intelligence engine that builds multi-agent simulated worlds from seed data to explore predictions and social dynamics.
-* [Open Interpreter](https://github.com/openinterpreter/openinterpreter) ⭐ 68,810 | 🐛 34 | 🌐 Rust | 📅 2026-11-04 - Open-source AI agent that executes code on your computer to perform tasks.
-* [OpenManus](https://github.com/FoundationAgents/OpenManus) ⭐ 58,892 | 🐛 448 | 🌐 Python | 📅 2026-11-02 - Open-source implementation of an autonomous AI agent.
-* [Goose](https://github.com/block/goose) ⭐ 56,282 | 🐛 559 | 🌐 Rust | 📅 2026-11-06 - On-machine AI agent that automates development tasks with MCP support.
-* [Huginn](https://github.com/huginn/huginn) ⭐ 50,298 | 🐛 693 | 🌐 Ruby | 📅 2026-11-04 - System for creating agents that monitor and act on your behalf across the web.
-* [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) ⭐ 40,631 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-05 - Teams-first multi-agent orchestration layer for Claude Code with parallel execution.
-* [Sim](https://github.com/simstudioai/sim) ⭐ 30,012 | 🐛 353 | 🌐 TypeScript | 📅 2026-11-06 - Open-source platform to build and deploy AI agent workflows.
-* [Mastra](https://github.com/mastra-ai/mastra) ⭐ 29,375 | 🐛 787 | 🌐 TypeScript | 📅 2026-11-06 - TypeScript framework for building AI-powered applications and agents.
-* [Activepieces](https://github.com/activepieces/activepieces) ⭐ 25,396 | 🐛 848 | 🌐 TypeScript | 📅 2026-11-06 - Open-source AI automation framework with MCP server support.
-* [Letta](https://github.com/letta-ai/letta) ⭐ 25,365 | 🐛 0 | 📅 2026-10-18 - Platform for building stateful agents with memory that learn over time.
-* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,775 | 🐛 430 | 🌐 TypeScript | 📅 2026-11-06 - Multi-agent simulation framework with Discord, Telegram, and Twitter integration.
-* [RowBoat](https://github.com/rowboatlabs/rowboat) ⭐ 18,136 | 🐛 225 | 🌐 TypeScript | 📅 2026-11-06 - Open-source AI coworker with persistent memory for long-running tasks.
-* [OpenHarness](https://github.com/HKUDS/OpenHarness) ⭐ 16,171 | 🐛 98 | 🌐 Python | 📅 2026-06-04 - Open agent harness with a built-in personal agent called Ohmo.
-* [ironclaw](https://github.com/nearai/ironclaw) ⭐ 12,714 | 🐛 1,571 | 🌐 Rust | 📅 2026-11-04 - Agent OS focused on privacy, security, and extensibility with Rust and WASM.
-* [Atomic Agents](https://github.com/Eigenwise/atomic-agents) ⭐ 6,319 | 🐛 21 | 🌐 Python | 📅 2026-10-29 - Lightweight Python framework for building agentic pipelines from composable, single-purpose components built on Pydantic and Instructor.
-* [SwarmForge](https://github.com/unclebob/swarm-forge) ⭐ 4,087 | 🐛 54 | 🌐 Clojure | 📅 2026-09-07 - Coordinates AI coding agents in isolated git worktrees and tmux sessions, with durable handoffs and an operator dashboard for approvals and oversight.
-* [Auto-Company](https://github.com/MaxMiksa/Auto-Company) ⭐ 3,190 | 🐛 3 | 🌐 Python | 📅 2026-10-30 - Multi-agent system that operates autonomously on your own PC across Windows, Linux, and macOS.
+* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 261,283 | 🐛 53,411 | 🌐 Python | 📅 2026-11-07 - Adaptive AI agent platform built on the Hermes model family.
+* [n8n](https://github.com/n8n-io/n8n) ⭐ 209,734 | 🐛 1,218 | 🌐 TypeScript | 📅 2026-11-07 - Fair-code workflow automation platform with native AI capabilities and 400+ integrations.
+* [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,933 | 🐛 688 | 🌐 Python | 📅 2026-11-07 - Experimental open-source application showcasing GPT-4 capabilities for autonomous tasks.
+* [Langflow](https://github.com/langflow-ai/langflow) ⭐ 156,396 | 🐛 1,326 | 🌐 Python | 📅 2026-11-07 - Low-code platform for building and deploying AI-powered agents and workflows.
+* [Pi](https://github.com/earendil-works/pi) ⭐ 120,545 | 🐛 262 | 🌐 TypeScript | 📅 2026-11-07 - Agent toolkit providing a unified multi-provider LLM API, an agent runtime with tool calling, a terminal UI, and a self-extensible coding agent CLI.
+* [autoresearch](https://github.com/karpathy/autoresearch) ⭐ 99,417 | 🐛 196 | 🌐 Python | 📅 2026-03-26 - AI agents that run research on single-GPU training automatically.
+* [DeerFlow](https://github.com/bytedance/deer-flow) ⭐ 85,093 | 🐛 1,058 | 🌐 Python | 📅 2026-11-07 - Open-source SuperAgent harness with sandboxes, memories, tools, and subagents.
+* [MiroFish](https://github.com/666ghj/MiroFish) ⭐ 84,537 | 🐛 240 | 🌐 Python | 📅 2026-10-16 - Swarm-intelligence engine that builds multi-agent simulated worlds from seed data to explore predictions and social dynamics.
+* [Open Interpreter](https://github.com/openinterpreter/openinterpreter) ⭐ 68,822 | 🐛 34 | 🌐 Rust | 📅 2026-11-04 - Open-source AI agent that executes code on your computer to perform tasks.
+* [OpenManus](https://github.com/FoundationAgents/OpenManus) ⭐ 58,905 | 🐛 449 | 🌐 Python | 📅 2026-11-02 - Open-source implementation of an autonomous AI agent.
+* [Goose](https://github.com/block/goose) ⭐ 56,315 | 🐛 566 | 🌐 Rust | 📅 2026-11-06 - On-machine AI agent that automates development tasks with MCP support.
+* [Huginn](https://github.com/huginn/huginn) ⭐ 50,308 | 🐛 697 | 🌐 Ruby | 📅 2026-11-07 - System for creating agents that monitor and act on your behalf across the web.
+* [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) ⭐ 40,653 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-06 - Teams-first multi-agent orchestration layer for Claude Code with parallel execution.
+* [Sim](https://github.com/simstudioai/sim) ⭐ 30,056 | 🐛 356 | 🌐 TypeScript | 📅 2026-11-07 - Open-source platform to build and deploy AI agent workflows.
+* [Mastra](https://github.com/mastra-ai/mastra) ⭐ 29,389 | 🐛 802 | 🌐 TypeScript | 📅 2026-11-07 - TypeScript framework for building AI-powered applications and agents.
+* [Activepieces](https://github.com/activepieces/activepieces) ⭐ 25,409 | 🐛 864 | 🌐 TypeScript | 📅 2026-11-07 - Open-source AI automation framework with MCP server support.
+* [Letta](https://github.com/letta-ai/letta) ⭐ 25,373 | 🐛 0 | 📅 2026-10-18 - Platform for building stateful agents with memory that learn over time.
+* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,782 | 🐛 536 | 🌐 TypeScript | 📅 2026-11-07 - Multi-agent simulation framework with Discord, Telegram, and Twitter integration.
+* [RowBoat](https://github.com/rowboatlabs/rowboat) ⭐ 18,145 | 🐛 227 | 🌐 TypeScript | 📅 2026-11-07 - Open-source AI coworker with persistent memory for long-running tasks.
+* [OpenHarness](https://github.com/HKUDS/OpenHarness) ⭐ 16,177 | 🐛 98 | 🌐 Python | 📅 2026-06-04 - Open agent harness with a built-in personal agent called Ohmo.
+* [ironclaw](https://github.com/nearai/ironclaw) ⭐ 12,712 | 🐛 1,571 | 🌐 Rust | 📅 2026-11-04 - Agent OS focused on privacy, security, and extensibility with Rust and WASM.
+* [Atomic Agents](https://github.com/Eigenwise/atomic-agents) ⭐ 6,320 | 🐛 23 | 🌐 Python | 📅 2026-10-29 - Lightweight Python framework for building agentic pipelines from composable, single-purpose components built on Pydantic and Instructor.
+* [SwarmForge](https://github.com/unclebob/swarm-forge) ⭐ 4,088 | 🐛 54 | 🌐 Clojure | 📅 2026-09-07 - Coordinates AI coding agents in isolated git worktrees and tmux sessions, with durable handoffs and an operator dashboard for approvals and oversight.
+* [Auto-Company](https://github.com/MaxMiksa/Auto-Company) ⭐ 3,191 | 🐛 3 | 🌐 Python | 📅 2026-10-30 - Multi-agent system that operates autonomously on your own PC across Windows, Linux, and macOS.
 * [NextPy](https://github.com/dot-agent/nextpy) ⭐ 2,350 | 🐛 23 | 🌐 Python | 📅 2024-05-01 - Self-modifying framework for building agentic modular systems.
-* [Ouroboros](https://github.com/razzant/ouroboros) ⭐ 1,610 | 🐛 191 | 🌐 Python | 📅 2026-11-06 - Runs general-purpose tasks through a desktop app or headless CLI, coordinates specialist agents, preserves identity and memory across restarts, and can modify its own implementation through reviewed Git commits.
+* [Ouroboros](https://github.com/razzant/ouroboros) ⭐ 1,613 | 🐛 216 | 🌐 Python | 📅 2026-11-06 - Runs general-purpose tasks through a desktop app or headless CLI, coordinates specialist agents, preserves identity and memory across restarts, and can modify its own implementation through reviewed Git commits.
 * [SmythOS](https://github.com/SmythOS/sre) ⭐ 1,301 | 🐛 36 | 🌐 TypeScript | 📅 2026-04-03 - Cloud-native runtime for building, running, and managing agentic AI systems.
-* [Open Agent](https://github.com/AFK-surf/open-agent) ⭐ 1,051 | 🐛 9 | 🌐 TypeScript | 📅 2025-10-10 - Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.
-* [nodetool](https://github.com/nodetool-ai/nodetool) ⭐ 614 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-06 - Open-source, agent-first creative workspace with node-based workflows and multi-provider LLM support.
-* [Kitaru](https://github.com/zenml-io/kitaru) ⭐ 317 | 🐛 78 | 🌐 Python | 📅 2026-11-05 - Durable execution layer for AI agents with checkpoints, replay, resume, and memory.
+* [Open Agent](https://github.com/AFK-surf/open-agent) ⭐ 1,050 | 🐛 9 | 🌐 TypeScript | 📅 2025-10-10 - Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.
+* [nodetool](https://github.com/nodetool-ai/nodetool) ⭐ 616 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-06 - Open-source, agent-first creative workspace with node-based workflows and multi-provider LLM support.
+* [Kitaru](https://github.com/zenml-io/kitaru) ⭐ 317 | 🐛 79 | 🌐 Python | 📅 2026-11-06 - Durable execution layer for AI agents with checkpoints, replay, resume, and memory.
 * [kami](https://github.com/kami-community/kami) ⭐ 65 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-09 - Automating content and outreach with multi-agent coordination for early-stage startups.
 * [Shire](https://github.com/victor36max/shire) ⭐ 41 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-03 - Persistent workspaces for AI agent teams with inter-agent mailboxes and shared drive.
 
@@ -58,32 +58,32 @@ Frameworks for building, deploying, and managing multi-agent systems.
 
 Agents that control desktops, interact with operating systems, and automate computer tasks.
 
-* [Puter](https://github.com/HeyPuter/puter) ⭐ 44,092 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-06 - Open-source, self-hostable cloud desktop operating system.
-* [Project NOMAD](https://github.com/Crosstalk-Solutions/project-nomad) ⭐ 42,356 | 🐛 167 | 🌐 TypeScript | 📅 2026-11-05 - Self-contained, offline survival computer with tools, knowledge, and AI.
-* [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop) ⭐ 39,556 | 🐛 511 | 🌐 TypeScript | 📅 2026-10-09 - Open-source multimodal AI agent stack for desktop automation.
-* [CUA](https://github.com/trycua/cua) ⭐ 31,846 | 🐛 1,417 | 🌐 Rust | 📅 2026-11-06 - Open-source infrastructure for Computer-Use Agents with sandboxes, SDKs, and benchmarks.
-* [Agent-S](https://github.com/simular-ai/Agent-S) ⭐ 12,890 | 🐛 76 | 🌐 Python | 📅 2026-10-30 - Open agentic framework designed to use computers like a human.
-* [HolaOS](https://github.com/holaboss-ai/holaOS) ⭐ 11,440 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-28 - Local-first agent for work that learns your working context and retains it.
-* [Coworker](https://github.com/accomplish-ai/coworker) ⭐ 10,808 | 🐛 13 | 📅 2026-08-13 - Open-source AI coworker that lives on your desktop.
-* [OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) ⭐ 9,194 | 🐛 9 | 🌐 Python | 📅 2026-11-05 - Framework for bypassing AI restrictions and enabling unrestricted model operation.
-* [Skales](https://github.com/skalesapp/skales) ⭐ 2,229 | 🐛 6 | 📅 2026-11-02 - Local-first desktop AI agent that runs offline via Ollama or 15+ providers.
-* [Autonomous Computer](https://github.com/autonomous-ai/autonomous-computer) ⭐ 1,557 | 🐛 2 | 📅 2026-11-05 - Toolkit for building a personal AI computer.
+* [Puter](https://github.com/HeyPuter/puter) ⭐ 44,100 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-07 - Open-source, self-hostable cloud desktop operating system.
+* [Project NOMAD](https://github.com/Crosstalk-Solutions/project-nomad) ⭐ 42,448 | 🐛 169 | 🌐 TypeScript | 📅 2026-11-06 - Self-contained, offline survival computer with tools, knowledge, and AI.
+* [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop) ⭐ 39,565 | 🐛 511 | 🌐 TypeScript | 📅 2026-10-09 - Open-source multimodal AI agent stack for desktop automation.
+* [CUA](https://github.com/trycua/cua) ⭐ 31,911 | 🐛 1,447 | 🌐 Rust | 📅 2026-11-07 - Open-source infrastructure for Computer-Use Agents with sandboxes, SDKs, and benchmarks.
+* [Agent-S](https://github.com/simular-ai/Agent-S) ⭐ 12,896 | 🐛 77 | 🌐 Python | 📅 2026-10-30 - Open agentic framework designed to use computers like a human.
+* [HolaOS](https://github.com/holaboss-ai/holaOS) ⭐ 11,433 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-06 - Local-first agent for work that learns your working context and retains it.
+* [Coworker](https://github.com/accomplish-ai/coworker) ⭐ 10,809 | 🐛 13 | 📅 2026-08-13 - Open-source AI coworker that lives on your desktop.
+* [OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) ⭐ 9,259 | 🐛 9 | 🌐 Python | 📅 2026-11-05 - Framework for bypassing AI restrictions and enabling unrestricted model operation.
+* [Skales](https://github.com/skalesapp/skales) ⭐ 2,229 | 🐛 7 | 📅 2026-11-02 - Local-first desktop AI agent that runs offline via Ollama or 15+ providers.
+* [Autonomous Computer](https://github.com/autonomous-ai/autonomous-computer) ⭐ 1,559 | 🐛 2 | 📅 2026-11-05 - Toolkit for building a personal AI computer.
 
 ## Web Agents & Browser Automation
 
 Browser control, web scraping, and internet interaction agents.
 
-* [browser-use](https://github.com/browser-use/browser-use) ⭐ 120,174 | 🐛 634 | 🌐 Python | 📅 2026-11-06 - Library for building agents that see, navigate, and interact with web browsers.
-* [Agent Reach](https://github.com/Panniantong/Agent-Reach) ⭐ 109,426 | 🐛 279 | 🌐 Python | 📅 2026-11-05 - Tool for giving AI agents access to Twitter, Reddit, YouTube, GitHub, and more.
-* [Crawl4AI](https://github.com/unclecode/crawl4ai) ⭐ 86,969 | 🐛 311 | 🌐 Python | 📅 2026-11-04 - Open-source, LLM-friendly web crawler and scraper for AI data gathering.
-* [Lightpanda](https://github.com/lightpanda-io/browser) ⭐ 41,439 | 🐛 81 | 🌐 Zig | 📅 2026-11-06 - Headless browser written in Zig, built for AI and automation, compatible with CDP, Playwright, and Puppeteer.
-* [AIHawk](https://github.com/feder-cr/AIHawk) ⭐ 32,382 | 🐛 2 | 🌐 Python | 📅 2026-11-06 - Open-source AI browser agent that browses, clicks, types, and reads the web from plain-English instructions, available as an MCP server (Claude Code, Codex, Gemini CLI) or a standalone web UI.
-* [Stagehand](https://github.com/browserbase/stagehand) ⭐ 25,963 | 🐛 418 | 🌐 TypeScript | 📅 2026-11-06 - SDK built on Playwright for authoring browser agents that extract data and interact with websites.
-* [Browser Harness](https://github.com/browser-use/browser-harness) ⭐ 18,891 | 🐛 440 | 🌐 Python | 📅 2026-11-06 - Self-healing harness that enables LLMs to complete browser tasks.
-* [Web UI](https://github.com/browser-use/web-ui) ⭐ 16,645 | 🐛 328 | 🌐 Python | 📅 2026-09-25 - Web interface for running and managing AI agents in your browser.
-* [BrowserOS](https://github.com/browseros-ai/BrowserOS) ⭐ 14,264 | 🐛 132 | 🌐 TypeScript | 📅 2026-11-06 - Open-source agentic browser as an alternative to proprietary AI browsing tools.
-* [Nanobrowser](https://github.com/nanobrowser/nanobrowser) ⭐ 14,247 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-24 - Open-source Chrome extension for AI-powered web automation with multi-agent workflows.
-* [Browserless](https://github.com/browserless/browserless) ⭐ 13,910 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-06 - Headless browser deployment platform for Docker and cloud environments.
+* [browser-use](https://github.com/browser-use/browser-use) ⭐ 120,230 | 🐛 630 | 🌐 Python | 📅 2026-11-07 - Library for building agents that see, navigate, and interact with web browsers.
+* [Agent Reach](https://github.com/Panniantong/Agent-Reach) ⭐ 109,773 | 🐛 283 | 🌐 Python | 📅 2026-11-06 - Tool for giving AI agents access to Twitter, Reddit, YouTube, GitHub, and more.
+* [Crawl4AI](https://github.com/unclecode/crawl4ai) ⭐ 87,028 | 🐛 312 | 🌐 Python | 📅 2026-11-04 - Open-source, LLM-friendly web crawler and scraper for AI data gathering.
+* [Lightpanda](https://github.com/lightpanda-io/browser) ⭐ 41,520 | 🐛 79 | 🌐 Zig | 📅 2026-11-07 - Headless browser written in Zig, built for AI and automation, compatible with CDP, Playwright, and Puppeteer.
+* [AIHawk](https://github.com/feder-cr/AIHawk) ⭐ 32,385 | 🐛 2 | 🌐 Python | 📅 2026-11-07 - Open-source AI browser agent that browses, clicks, types, and reads the web from plain-English instructions, available as an MCP server (Claude Code, Codex, Gemini CLI) or a standalone web UI.
+* [Stagehand](https://github.com/browserbase/stagehand) ⭐ 25,976 | 🐛 419 | 🌐 TypeScript | 📅 2026-11-07 - SDK built on Playwright for authoring browser agents that extract data and interact with websites.
+* [Browser Harness](https://github.com/browser-use/browser-harness) ⭐ 18,914 | 🐛 442 | 🌐 Python | 📅 2026-11-07 - Self-healing harness that enables LLMs to complete browser tasks.
+* [Web UI](https://github.com/browser-use/web-ui) ⭐ 16,644 | 🐛 328 | 🌐 Python | 📅 2026-09-25 - Web interface for running and managing AI agents in your browser.
+* [BrowserOS](https://github.com/browseros-ai/BrowserOS) ⭐ 14,270 | 🐛 139 | 🌐 TypeScript | 📅 2026-11-07 - Open-source agentic browser as an alternative to proprietary AI browsing tools.
+* [Nanobrowser](https://github.com/nanobrowser/nanobrowser) ⭐ 14,256 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-24 - Open-source Chrome extension for AI-powered web automation with multi-agent workflows.
+* [Browserless](https://github.com/browserless/browserless) ⭐ 13,911 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-06 - Headless browser deployment platform for Docker and cloud environments.
 * [WebVoyager](https://github.com/MinorJerry/WebVoyager) ⭐ 1,129 | 🐛 12 | 🌐 Python | 📅 2024-03-04 - End-to-end web agent framework powered by large multimodal models.
 * [Agentic AI Browser](https://github.com/esinecan/agentic-ai-browser) ⭐ 163 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-04 - AI-driven web automation agent using Playwright for decision-making.
 * [Vibe Eyes](https://github.com/monteslu/vibe-eyes) ⭐ 54 | 🐛 2 | 🌐 JavaScript | 📅 2026-02-04 - MCP server that enables LLMs to see and interact with browser-based applications.
@@ -92,25 +92,25 @@ Browser control, web scraping, and internet interaction agents.
 
 Text-to-speech, speech-to-text, voice assistants, and real-time audio systems.
 
-* [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) ⭐ 64,986 | 🐛 911 | 🌐 Python | 📅 2026-10-31 - Few-shot voice cloning and text-to-speech model training framework.
-* [VibeVoice](https://github.com/microsoft/VibeVoice) ⭐ 56,274 | 🐛 205 | 🌐 Python | 📅 2026-10-08 - Open-source voice AI for audio synthesis.
-* [Fish Speech](https://github.com/fishaudio/fish-speech) ⭐ 33,600 | 🐛 25 | 🌐 Python | 📅 2026-11-02 - Open-source text-to-speech engine with multilingual voice cloning.
-* [Chatterbox](https://github.com/resemble-ai/chatterbox) ⭐ 27,595 | 🐛 381 | 🌐 Python | 📅 2026-11-04 - Open-source text-to-speech engine for realistic voices.
-* [LiveKit](https://github.com/livekit/livekit) ⭐ 22,062 | 🐛 215 | 🌐 Go | 📅 2026-11-06 - End-to-end realtime stack for connecting humans and AI with low-latency audio/video.
-* [Dia](https://github.com/nari-labs/dia) ⭐ 19,409 | 🐛 91 | 🌐 Python | 📅 2025-11-19 - TTS model capable of generating realistic dialogue in a single pass.
-* [KittenTTS](https://github.com/KittenML/KittenTTS) ⭐ 16,808 | 🐛 148 | 🌐 Python | 📅 2026-10-27 - TTS model under 25MB for compact, high-quality voice synthesis.
-* [LiveKit Agents](https://github.com/livekit/agents) ⭐ 15,108 | 🐛 897 | 🌐 Python | 📅 2026-11-06 - Framework for building realtime voice AI agents with audio and video pipelines.
-* [YuE](https://github.com/multimodal-art-projection/YuE) ⭐ 13,124 | 🐛 43 | 🌐 Python | 📅 2026-11-01 - Open full-song music generation foundation model.
-* [Pocket TTS](https://github.com/kyutai-labs/pocket-tts) ⭐ 10,218 | 🐛 65 | 🌐 Python | 📅 2026-11-05 - Text-to-speech model designed to run efficiently on consumer CPUs.
-* [MLX Audio](https://github.com/Blaizzy/mlx-audio) ⭐ 8,208 | 🐛 93 | 🌐 Python | 📅 2026-11-05 - Text-to-speech, speech-to-text, and speech-to-speech library built on Apple's MLX framework.
+* [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) ⭐ 64,443 | 🐛 911 | 🌐 Python | 📅 2026-10-31 - Few-shot voice cloning and text-to-speech model training framework.
+* [VibeVoice](https://github.com/microsoft/VibeVoice) ⭐ 56,544 | 🐛 205 | 🌐 Python | 📅 2026-10-08 - Open-source voice AI for audio synthesis.
+* [Fish Speech](https://github.com/fishaudio/fish-speech) ⭐ 33,601 | 🐛 24 | 🌐 Python | 📅 2026-11-02 - Open-source text-to-speech engine with multilingual voice cloning.
+* [Chatterbox](https://github.com/resemble-ai/chatterbox) ⭐ 27,635 | 🐛 381 | 🌐 Python | 📅 2026-11-04 - Open-source text-to-speech engine for realistic voices.
+* [LiveKit](https://github.com/livekit/livekit) ⭐ 22,072 | 🐛 218 | 🌐 Go | 📅 2026-11-07 - End-to-end realtime stack for connecting humans and AI with low-latency audio/video.
+* [Dia](https://github.com/nari-labs/dia) ⭐ 19,407 | 🐛 91 | 🌐 Python | 📅 2025-11-19 - TTS model capable of generating realistic dialogue in a single pass.
+* [KittenTTS](https://github.com/KittenML/KittenTTS) ⭐ 16,807 | 🐛 148 | 🌐 Python | 📅 2026-10-27 - TTS model under 25MB for compact, high-quality voice synthesis.
+* [LiveKit Agents](https://github.com/livekit/agents) ⭐ 15,121 | 🐛 914 | 🌐 Python | 📅 2026-11-07 - Framework for building realtime voice AI agents with audio and video pipelines.
+* [YuE](https://github.com/multimodal-art-projection/YuE) ⭐ 13,146 | 🐛 43 | 🌐 Python | 📅 2026-11-01 - Open full-song music generation foundation model.
+* [Pocket TTS](https://github.com/kyutai-labs/pocket-tts) ⭐ 10,227 | 🐛 67 | 🌐 Python | 📅 2026-11-05 - Text-to-speech model designed to run efficiently on consumer CPUs.
+* [MLX Audio](https://github.com/Blaizzy/mlx-audio) ⭐ 8,212 | 🐛 90 | 🌐 Python | 📅 2026-11-07 - Text-to-speech, speech-to-text, and speech-to-speech library built on Apple's MLX framework.
 * [NeuTTS](https://github.com/neuphonic/neutts) ⭐ 6,338 | 🐛 37 | 🌐 Python | 📅 2026-07-30 - On-device text-to-speech model by Neuphonic for private voice synthesis.
-* [Piper](https://github.com/OHF-Voice/piper1-gpl) ⭐ 6,185 | 🐛 152 | 🌐 C++ | 📅 2026-11-02 - Fast and local neural text-to-speech engine for low-latency applications.
-* [MisoTTS](https://github.com/MisoLabsAI/MisoTTS) ⭐ 3,247 | 🐛 21 | 🌐 Python | 📅 2026-06-09 - 8-billion parameter text-to-speech model for highly emotive voice generation.
-* [Jarvis](https://github.com/isair/jarvis) ⭐ 2,190 | 🐛 176 | 🌐 Python | 📅 2026-10-20 - Private AI voice assistant that runs offline on your computer.
-* [Kokoro TTS](https://github.com/nazdridoy/kokoro-tts) ⭐ 1,989 | 🐛 19 | 🌐 Python | 📅 2026-08-22 - CLI-based text-to-speech tool utilizing the Kokoro model for multiple languages.
-* [Tada](https://github.com/HumeAI/tada) ⭐ 1,019 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-05-11 - Open-source speech language model for expressive, emotionally-aware audio generation.
-* [Fun Audio Chat](https://github.com/QwenAudio/Fun-Audio-Chat) ⭐ 1,010 | 🐛 19 | 🌐 Python | 📅 2026-09-24 - Large audio language model for natural, low-latency voice interactions.
-* [Confucius4-TTS](https://github.com/netease-youdao/Confucius4-TTS) ⭐ 852 | 🐛 11 | 🌐 Python | 📅 2026-11-04 - TTS model optimized for long-form Chinese and English content with strong emotion control.
+* [Piper](https://github.com/OHF-Voice/piper1-gpl) ⭐ 6,193 | 🐛 152 | 🌐 C++ | 📅 2026-11-02 - Fast and local neural text-to-speech engine for low-latency applications.
+* [MisoTTS](https://github.com/MisoLabsAI/MisoTTS) ⭐ 3,248 | 🐛 21 | 🌐 Python | 📅 2026-06-09 - 8-billion parameter text-to-speech model for highly emotive voice generation.
+* [Jarvis](https://github.com/isair/jarvis) ⭐ 2,196 | 🐛 176 | 🌐 Python | 📅 2026-10-20 - Private AI voice assistant that runs offline on your computer.
+* [Kokoro TTS](https://github.com/nazdridoy/kokoro-tts) ⭐ 1,990 | 🐛 19 | 🌐 Python | 📅 2026-08-22 - CLI-based text-to-speech tool utilizing the Kokoro model for multiple languages.
+* [Tada](https://github.com/HumeAI/tada) ⭐ 1,020 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-05-11 - Open-source speech language model for expressive, emotionally-aware audio generation.
+* [Fun Audio Chat](https://github.com/QwenAudio/Fun-Audio-Chat) ⭐ 1,011 | 🐛 19 | 🌐 Python | 📅 2026-09-24 - Large audio language model for natural, low-latency voice interactions.
+* [Confucius4-TTS](https://github.com/netease-youdao/Confucius4-TTS) ⭐ 853 | 🐛 11 | 🌐 Python | 📅 2026-11-04 - TTS model optimized for long-form Chinese and English content with strong emotion control.
 * [Liquid Audio](https://github.com/Liquid4All/liquid-audio) ⭐ 589 | 🐛 12 | 🌐 Python | 📅 2026-10-03 - Speech-to-speech audio models developed by Liquid AI.
 * [Audio2Face 3D](https://github.com/NVIDIA/Audio2Face-3D-Samples) ⭐ 339 | 🐛 24 | 🌐 Python | 📅 2026-03-11 - Service for converting audio to facial blendshapes for lipsync and real-time facial performances.
 
@@ -118,21 +118,21 @@ Text-to-speech, speech-to-text, voice assistants, and real-time audio systems.
 
 Image generation, video creation, 3D modeling, and visual manipulation tools.
 
-* [DragGAN](https://github.com/XingangPan/DragGAN) ⭐ 35,704 | 🐛 154 | 🌐 Python | 📅 2024-05-18 - Interactive point-based manipulation for precise control over generative images.
-* [Open-Sora](https://github.com/hpcaitech/Open-Sora) ⭐ 29,914 | 🐛 14 | 🌐 Python | 📅 2026-04-09 - Open-source video generation models for efficient video production.
-* [InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 29,001 | 🐛 369 | 🌐 TypeScript | 📅 2026-11-06 - Creative engine for Stable Diffusion models to generate visual media.
-* [Duix Avatar](https://github.com/duixcom/Duix-Avatar) ⭐ 16,253 | 🐛 423 | 🌐 C | 📅 2026-04-21 - Open-source toolkit for AI avatar creation and digital human cloning.
-* [Z-Image](https://github.com/Tongyi-MAI/Z-Image) ⭐ 12,136 | 🐛 113 | 🌐 Python | 📅 2026-02-09 - Open-source image generation model from Alibaba's Tongyi team.
-* [Sana](https://github.com/NVlabs/Sana) ⭐ 9,776 | 🐛 141 | 🌐 Python | 📅 2026-11-05 - High-resolution image synthesis using Linear Diffusion Transformers.
-* [Modly](https://github.com/lightningpixel/modly) ⭐ 8,560 | 🐛 106 | 🌐 TypeScript | 📅 2026-11-01 - Desktop app for generating 3D models from images using local AI.
-* [SkyReels V2](https://github.com/SkyworkAI/SkyReels-V2) ⭐ 7,760 | 🐛 381 | 🌐 Python | 📅 2026-01-29 - Generative model for creating infinite-length AI films.
-* [TripoSR](https://github.com/VAST-AI-Research/TripoSR) ⭐ 7,297 | 🐛 109 | 🌐 Python | 📅 2026-06-04 - Fast 3D object reconstruction from a single image using AI.
-* [HunyuanVideo 1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) ⭐ 4,591 | 🐛 40 | 🌐 Python | 📅 2026-04-10 - Lightweight video generation model for high-quality output.
-* [Helios](https://github.com/PKU-YuanGroup/Helios) ⭐ 2,249 | 🐛 45 | 🌐 Python | 📅 2026-11-01 - Real-time long video generation model for streaming video synthesis.
-* [Node Banana](https://github.com/shrimbly/node-banana) ⭐ 1,662 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-05 - Free and open-source node-based generative workflow platform.
-* [Short Video Maker](https://github.com/gyoridavid/short-video-maker) ⭐ 1,469 | 🐛 30 | 🌐 TypeScript | 📅 2025-06-21 - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using MCP.
-* [FlashWorld](https://github.com/imlixinyang/FlashWorld) ⭐ 873 | 🐛 18 | 🌐 Python | 📅 2026-03-24 - High-quality 3D scene generation framework that works within seconds.
-* [Realtime Video](https://github.com/krea-ai/realtime-video) ⭐ 597 | 🐛 17 | 🌐 Python | 📅 2025-11-13 - Open-source model for high-quality, realtime AI video generation.
+* [DragGAN](https://github.com/XingangPan/DragGAN) ⭐ 35,701 | 🐛 153 | 🌐 Python | 📅 2024-05-18 - Interactive point-based manipulation for precise control over generative images.
+* [Open-Sora](https://github.com/hpcaitech/Open-Sora) ⭐ 29,919 | 🐛 14 | 🌐 Python | 📅 2026-04-09 - Open-source video generation models for efficient video production.
+* [InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 29,010 | 🐛 367 | 🌐 TypeScript | 📅 2026-11-07 - Creative engine for Stable Diffusion models to generate visual media.
+* [Duix Avatar](https://github.com/duixcom/Duix-Avatar) ⭐ 16,257 | 🐛 423 | 🌐 C | 📅 2026-04-21 - Open-source toolkit for AI avatar creation and digital human cloning.
+* [Z-Image](https://github.com/Tongyi-MAI/Z-Image) ⭐ 12,138 | 🐛 113 | 🌐 Python | 📅 2026-02-09 - Open-source image generation model from Alibaba's Tongyi team.
+* [Sana](https://github.com/NVlabs/Sana) ⭐ 9,781 | 🐛 142 | 🌐 Python | 📅 2026-11-06 - High-resolution image synthesis using Linear Diffusion Transformers.
+* [Modly](https://github.com/lightningpixel/modly) ⭐ 8,574 | 🐛 106 | 🌐 TypeScript | 📅 2026-11-01 - Desktop app for generating 3D models from images using local AI.
+* [SkyReels V2](https://github.com/SkyworkAI/SkyReels-V2) ⭐ 7,762 | 🐛 381 | 🌐 Python | 📅 2026-01-29 - Generative model for creating infinite-length AI films.
+* [TripoSR](https://github.com/VAST-AI-Research/TripoSR) ⭐ 7,307 | 🐛 109 | 🌐 Python | 📅 2026-06-04 - Fast 3D object reconstruction from a single image using AI.
+* [HunyuanVideo 1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) ⭐ 4,592 | 🐛 40 | 🌐 Python | 📅 2026-04-10 - Lightweight video generation model for high-quality output.
+* [Helios](https://github.com/PKU-YuanGroup/Helios) ⭐ 2,254 | 🐛 46 | 🌐 Python | 📅 2026-11-01 - Real-time long video generation model for streaming video synthesis.
+* [Node Banana](https://github.com/shrimbly/node-banana) ⭐ 1,663 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-07 - Free and open-source node-based generative workflow platform.
+* [Short Video Maker](https://github.com/gyoridavid/short-video-maker) ⭐ 1,472 | 🐛 30 | 🌐 TypeScript | 📅 2025-06-21 - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using MCP.
+* [FlashWorld](https://github.com/imlixinyang/FlashWorld) ⭐ 874 | 🐛 18 | 🌐 Python | 📅 2026-03-24 - High-quality 3D scene generation framework that works within seconds.
+* [Realtime Video](https://github.com/krea-ai/realtime-video) ⭐ 597 | 🐛 19 | 🌐 Python | 📅 2025-11-13 - Open-source model for high-quality, realtime AI video generation.
 * [RealWonder](https://github.com/liuwei283/RealWonder) ⭐ 234 | 🐛 3 | 🌐 Python | 📅 2026-03-06 - Real-time physical action-conditioned video generation model.
 * [EditThinker](https://github.com/appletea233/EditThinker) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2026-01-18 - Iterative reasoning framework for step-by-step thinking in image editing.
 * [Streamo](https://github.com/maifoundations/Streamo) ⭐ 95 | 🐛 10 | 🌐 Python | 📅 2026-02-25 - Streaming video instruction tuning framework for continuous video understanding.
@@ -142,66 +142,66 @@ Image generation, video creation, 3D modeling, and visual manipulation tools.
 
 Code editors, coding agents, and development tools.
 
-* [Ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 185,442 | 🐛 181 | 🌐 JavaScript | 📅 2026-10-29 - Agent skill and rules package that steers coding agents toward writing minimal code.
-* [CodeGraph](https://github.com/colbymchenry/codegraph) ⭐ 76,856 | 🐛 257 | 🌐 TypeScript | 📅 2026-11-01 - Pre-indexed code knowledge graph that auto-syncs on code changes for multiple AI coding tools.
-* [Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent) ⭐ 70,736 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-11-06 - Batteries-included agent harness for complex codebases.
-* [OpenClaude](https://github.com/Twigpine/openclaude) ⭐ 34,285 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-05 - Open-source coding-agent CLI that works with cloud and local model providers, with tools, agents, and MCP support.
-* [Open Lovable](https://github.com/firecrawl/open-lovable) ⭐ 28,862 | 🐛 153 | 🌐 TypeScript | 📅 2026-10-09 - Tool for cloning and recreating websites as modern React apps using AI.
-* [Dyad](https://github.com/dyad-sh/dyad) ⭐ 22,198 | 🐛 358 | 🌐 TypeScript | 📅 2026-11-06 - Local, open-source AI app builder for power users.
-* [DeepCode](https://github.com/HKUDS/DeepCode) ⭐ 16,809 | 🐛 38 | 🌐 Python | 📅 2026-11-02 - Open agentic coding framework for paper-to-code and web development tasks.
-* [OpenBot](https://github.com/CopilotKit/OpenBot) ⭐ 10,289 | 🐛 66 | 🌐 TypeScript | 📅 2026-11-06 - Open-source coding agent for VS Code powered by CopilotKit.
-* [sandcastle](https://github.com/mattpocock/sandcastle) ⭐ 8,879 | 🐛 140 | 🌐 TypeScript | 📅 2026-11-06 - TypeScript library for orchestrating sandboxed coding agents.
-* [ClawX](https://github.com/ValueCell-ai/ClawX) ⭐ 7,601 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-06 - Desktop app providing a graphical interface for OpenClaw AI agents.
-* [Emdash](https://github.com/generalaction/emdash) ⭐ 6,204 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-06 - Open-source agentic development environment for running multiple coding agents in parallel.
-* [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) ⭐ 2,660 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-06 - Multi-agent coding orchestration platform for parallel AI-assisted development.
+* [Ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 185,997 | 🐛 183 | 🌐 JavaScript | 📅 2026-10-29 - Agent skill and rules package that steers coding agents toward writing minimal code.
+* [CodeGraph](https://github.com/colbymchenry/codegraph) ⭐ 76,962 | 🐛 262 | 🌐 TypeScript | 📅 2026-11-01 - Pre-indexed code knowledge graph that auto-syncs on code changes for multiple AI coding tools.
+* [Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent) ⭐ 70,759 | 🐛 2,418 | 🌐 TypeScript | 📅 2026-11-07 - Batteries-included agent harness for complex codebases.
+* [OpenClaude](https://github.com/Twigpine/openclaude) ⭐ 34,301 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-06 - Open-source coding-agent CLI that works with cloud and local model providers, with tools, agents, and MCP support.
+* [Open Lovable](https://github.com/firecrawl/open-lovable) ⭐ 28,867 | 🐛 153 | 🌐 TypeScript | 📅 2026-10-09 - Tool for cloning and recreating websites as modern React apps using AI.
+* [Dyad](https://github.com/dyad-sh/dyad) ⭐ 22,214 | 🐛 359 | 🌐 TypeScript | 📅 2026-11-06 - Local, open-source AI app builder for power users.
+* [DeepCode](https://github.com/HKUDS/DeepCode) ⭐ 16,814 | 🐛 38 | 🌐 Python | 📅 2026-11-02 - Open agentic coding framework for paper-to-code and web development tasks.
+* [OpenBot](https://github.com/CopilotKit/OpenBot) ⭐ 10,349 | 🐛 89 | 🌐 TypeScript | 📅 2026-11-07 - Open-source coding agent for VS Code powered by CopilotKit.
+* [sandcastle](https://github.com/mattpocock/sandcastle) ⭐ 8,896 | 🐛 154 | 🌐 TypeScript | 📅 2026-11-06 - TypeScript library for orchestrating sandboxed coding agents.
+* [ClawX](https://github.com/ValueCell-ai/ClawX) ⭐ 7,602 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-06 - Desktop app providing a graphical interface for OpenClaw AI agents.
+* [Emdash](https://github.com/generalaction/emdash) ⭐ 6,208 | 🐛 87 | 🌐 TypeScript | 📅 2026-11-06 - Open-source agentic development environment for running multiple coding agents in parallel.
+* [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) ⭐ 2,663 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-07 - Multi-agent coding orchestration platform for parallel AI-assisted development.
 * [Mysti](https://github.com/DeepMyst/Mysti) ⭐ 1,154 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-06 - AI coding dream team of agents for VS Code that debate and synthesize solutions.
-* [Clawmetry](https://github.com/vivekchand/clawmetry) ⭐ 436 | 🐛 172 | 🌐 Python | 📅 2026-11-05 - Real-time observability dashboard for OpenClaw AI agents.
-* [Persona](https://github.com/runtypelabs/persona) ⭐ 263 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-06 - Toolkit for creating agentic front-end experiences for the web with WebMCP support.
+* [Clawmetry](https://github.com/vivekchand/clawmetry) ⭐ 436 | 🐛 174 | 🌐 Python | 📅 2026-11-06 - Real-time observability dashboard for OpenClaw AI agents.
+* [Persona](https://github.com/runtypelabs/persona) ⭐ 263 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-06 - Toolkit for creating agentic front-end experiences for the web with WebMCP support.
 
 ## LLM Infrastructure & Model Serving
 
 Model hosting, fine-tuning, API gateways, and inference optimization.
 
-* [RTK](https://github.com/rtk-ai/rtk) ⭐ 85,692 | 🐛 1,711 | 🌐 Rust | 📅 2026-11-06 - Rust CLI proxy that filters and compresses command output before it reaches the LLM context.
-* [Unsloth](https://github.com/unslothai/unsloth) ⭐ 79,098 | 🐛 481 | 🌐 Python | 📅 2026-11-06 - Fine-tuning and reinforcement learning framework for LLMs.
-* [Headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 78,965 | 🐛 318 | 🌐 Python | 📅 2026-11-06 - Tool for compressing tool outputs, logs, files, and RAG chunks before they reach the LLM.
-* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 62,812 | 🐛 5,747 | 🌐 Python | 📅 2026-11-06 - Python SDK and proxy server to call 100+ LLM APIs in a unified OpenAI format.
-* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 50,225 | 🐛 181 | 🌐 Go | 📅 2026-11-06 - Self-hosted, local-first open-source alternative to OpenAI and Claude APIs.
-* [freellmapi](https://github.com/tashfeenahmed/freellmapi) ⭐ 48,146 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-06 - OpenAI-compatible proxy that stacks free tiers of 28 LLM providers behind a single endpoint with smart routing and failover.
-* [LLMFit](https://github.com/AlexsJones/llmfit) ⭐ 38,702 | 🐛 56 | 🌐 Rust | 📅 2026-11-05 - Tool for discovering hundreds of models across providers to find what runs on your hardware.
-* [PowerInfer](https://github.com/Tiiny-AI/PowerInfer) ⭐ 9,869 | 🐛 134 | 🌐 C++ | 📅 2026-05-11 - High-speed LLM serving for local deployment with CPU/GPU heterogeneous inference.
+* [RTK](https://github.com/rtk-ai/rtk) ⭐ 85,775 | 🐛 1,698 | 🌐 Rust | 📅 2026-11-06 - Rust CLI proxy that filters and compresses command output before it reaches the LLM context.
+* [Unsloth](https://github.com/unslothai/unsloth) ⭐ 79,135 | 🐛 483 | 🌐 Python | 📅 2026-11-07 - Fine-tuning and reinforcement learning framework for LLMs.
+* [Headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 79,044 | 🐛 274 | 🌐 Python | 📅 2026-11-07 - Tool for compressing tool outputs, logs, files, and RAG chunks before they reach the LLM.
+* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 62,852 | 🐛 5,708 | 🌐 Python | 📅 2026-11-07 - Python SDK and proxy server to call 100+ LLM APIs in a unified OpenAI format.
+* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 50,236 | 🐛 179 | 🌐 Go | 📅 2026-11-07 - Self-hosted, local-first open-source alternative to OpenAI and Claude APIs.
+* [freellmapi](https://github.com/tashfeenahmed/freellmapi) ⭐ 48,537 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-06 - OpenAI-compatible proxy that stacks free tiers of 28 LLM providers behind a single endpoint with smart routing and failover.
+* [LLMFit](https://github.com/AlexsJones/llmfit) ⭐ 38,728 | 🐛 57 | 🌐 Rust | 📅 2026-11-05 - Tool for discovering hundreds of models across providers to find what runs on your hardware.
+* [PowerInfer](https://github.com/Tiiny-AI/PowerInfer) ⭐ 9,871 | 🐛 134 | 🌐 C++ | 📅 2026-05-11 - High-speed LLM serving for local deployment with CPU/GPU heterogeneous inference.
 
 ## Security & Offensive AI
 
 Penetration testing, red teaming, vulnerability scanning, and security tools.
 
-* [Strix](https://github.com/usestrix/strix) ⭐ 74,018 | 🐛 546 | 🌐 Python | 📅 2026-11-05 - Open-source AI tool for finding and fixing application vulnerabilities.
-* [Shannon](https://github.com/KeygraphHQ/shannon) ⭐ 51,304 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-04 - Autonomous AI pentester for web applications and APIs that analyzes source code and executes exploits.
-* [Pentagi](https://github.com/vxcontrol/pentagi) ⭐ 33,478 | 🐛 67 | 🌐 Go | 📅 2026-10-22 - Fully autonomous AI agents system for complex penetration testing tasks end-to-end.
-* [SkillSpector](https://github.com/NVIDIA/SkillSpector) ⭐ 24,583 | 🐛 178 | 🌐 Python | 📅 2026-11-06 - Security scanner for AI agent skills that detects vulnerabilities and malicious patterns.
-* [OneCLI](https://github.com/onecli/onecli) ⭐ 3,625 | 🐛 188 | 🌐 TypeScript | 📅 2026-11-05 - Open-source credential vault for AI agents that injects API keys transparently.
-* [RedAMon](https://github.com/samugit83/redamon) ⭐ 3,308 | 🐛 18 | 🌐 Python | 📅 2026-11-05 - AI-powered agentic red team framework for offensive security operations from recon to post-exploitation.
-* [Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) ⭐ 3,142 | 🐛 26 | 🌐 Go | 📅 2026-11-03 - Autonomous penetration testing using a swarm of AI agents with specialized roles.
+* [Strix](https://github.com/usestrix/strix) ⭐ 74,167 | 🐛 557 | 🌐 Python | 📅 2026-11-06 - Open-source AI tool for finding and fixing application vulnerabilities.
+* [Shannon](https://github.com/KeygraphHQ/shannon) ⭐ 51,356 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-06 - Autonomous AI pentester for web applications and APIs that analyzes source code and executes exploits.
+* [Pentagi](https://github.com/vxcontrol/pentagi) ⭐ 33,566 | 🐛 67 | 🌐 Go | 📅 2026-10-22 - Fully autonomous AI agents system for complex penetration testing tasks end-to-end.
+* [SkillSpector](https://github.com/NVIDIA/SkillSpector) ⭐ 24,724 | 🐛 171 | 🌐 Python | 📅 2026-11-06 - Security scanner for AI agent skills that detects vulnerabilities and malicious patterns.
+* [OneCLI](https://github.com/onecli/onecli) ⭐ 3,628 | 🐛 187 | 🌐 TypeScript | 📅 2026-11-05 - Open-source credential vault for AI agents that injects API keys transparently.
+* [RedAMon](https://github.com/samugit83/redamon) ⭐ 3,312 | 🐛 18 | 🌐 Python | 📅 2026-11-05 - AI-powered agentic red team framework for offensive security operations from recon to post-exploitation.
+* [Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) ⭐ 3,146 | 🐛 26 | 🌐 Go | 📅 2026-11-03 - Autonomous penetration testing using a swarm of AI agents with specialized roles.
 * [Azazel](https://github.com/beelzebub-labs/azazel) ⭐ 110 | 🐛 3 | 🌐 C | 📅 2026-10-26 - eBPF-powered observer for containerized runtimes, built for malware analysis and AI monitoring.
 
 ## Data, Memory & Knowledge
 
 OCR, knowledge graphs, memory systems, and data infrastructure.
 
-* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 92,346 | 🐛 261 | 🌐 Python | 📅 2026-09-16 - Comprehensive OCR toolkit supporting 100+ languages and complex layouts.
-* [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) ⭐ 91,017 | 🐛 351 | 🌐 TypeScript | 📅 2026-11-06 - Turns codebases into interactive knowledge graphs for AI agents to explore, search, and query.
-* [Docling](https://github.com/docling-project/docling) ⭐ 70,188 | 🐛 950 | 🌐 Python | 📅 2026-11-06 - Tool for converting various document formats into AI-ready structured data.
-* [Pathway](https://github.com/pathwaycom/pathway) ⭐ 62,015 | 🐛 37 | 🌐 Python | 📅 2026-11-06 - Python ETL framework for real-time analytics, stream processing, and RAG.
-* [Graphiti](https://github.com/getzep/graphiti) ⭐ 32,580 | 🐛 549 | 🌐 Python | 📅 2026-11-06 - Tool for building real-time knowledge graphs to power AI agent memory.
-* [OLMocr](https://github.com/allenai/olmocr) ⭐ 19,811 | 🐛 92 | 🌐 Python | 📅 2026-03-25 - Toolkit for linearizing PDFs to prepare datasets for LLM training.
-* [Memori](https://github.com/MemoriLabs/Memori) ⭐ 17,427 | 🐛 58 | 🌐 Python | 📅 2026-10-03 - SQL-native memory layer for LLMs, AI agents, and multi-agent systems.
-* [memU](https://github.com/NevaMind-AI/memU) ⭐ 14,607 | 🐛 141 | 🌐 Python | 📅 2026-11-05 - Memory system designed for 24/7 proactive agents.
-* [Chandra](https://github.com/datalab-to/chandra) ⭐ 12,692 | 🐛 64 | 🌐 Python | 📅 2026-10-22 - Specialized OCR model for parsing complex tables, forms, and handwriting.
-* [MemOS](https://github.com/MemTensor/MemOS) ⭐ 12,289 | 🐛 150 | 🌐 TypeScript | 📅 2026-11-04 - AI memory operating system for persistent skill storage in agent systems.
-* [FalkorDB](https://github.com/FalkorDB/FalkorDB) ⭐ 10,505 | 🐛 833 | 🌐 Rust | 📅 2026-11-05 - Fast graph database using GraphBLAS for GraphRAG and knowledge graphs for LLMs.
+* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 92,386 | 🐛 259 | 🌐 Python | 📅 2026-09-16 - Comprehensive OCR toolkit supporting 100+ languages and complex layouts.
+* [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) ⭐ 91,148 | 🐛 352 | 🌐 TypeScript | 📅 2026-11-07 - Turns codebases into interactive knowledge graphs for AI agents to explore, search, and query.
+* [Docling](https://github.com/docling-project/docling) ⭐ 70,242 | 🐛 950 | 🌐 Python | 📅 2026-11-06 - Tool for converting various document formats into AI-ready structured data.
+* [Pathway](https://github.com/pathwaycom/pathway) ⭐ 62,014 | 🐛 37 | 🌐 Python | 📅 2026-11-07 - Python ETL framework for real-time analytics, stream processing, and RAG.
+* [Graphiti](https://github.com/getzep/graphiti) ⭐ 32,615 | 🐛 552 | 🌐 Python | 📅 2026-11-06 - Tool for building real-time knowledge graphs to power AI agent memory.
+* [OLMocr](https://github.com/allenai/olmocr) ⭐ 19,812 | 🐛 92 | 🌐 Python | 📅 2026-03-25 - Toolkit for linearizing PDFs to prepare datasets for LLM training.
+* [Memori](https://github.com/MemoriLabs/Memori) ⭐ 17,453 | 🐛 60 | 🌐 Python | 📅 2026-10-03 - SQL-native memory layer for LLMs, AI agents, and multi-agent systems.
+* [memU](https://github.com/NevaMind-AI/memU) ⭐ 14,607 | 🐛 142 | 🌐 Python | 📅 2026-11-05 - Memory system designed for 24/7 proactive agents.
+* [Chandra](https://github.com/datalab-to/chandra) ⭐ 12,695 | 🐛 64 | 🌐 Python | 📅 2026-10-22 - Specialized OCR model for parsing complex tables, forms, and handwriting.
+* [MemOS](https://github.com/MemTensor/MemOS) ⭐ 12,307 | 🐛 147 | 🌐 TypeScript | 📅 2026-11-04 - AI memory operating system for persistent skill storage in agent systems.
+* [FalkorDB](https://github.com/FalkorDB/FalkorDB) ⭐ 10,504 | 🐛 833 | 🌐 Rust | 📅 2026-11-06 - Fast graph database using GraphBLAS for GraphRAG and knowledge graphs for LLMs.
 * [Dolphin](https://github.com/bytedance/Dolphin) ⭐ 9,067 | 🐛 77 | 🌐 Python | 📅 2026-03-25 - Document image parsing framework using heterogeneous anchor prompting.
-* [OpenMed](https://github.com/maziyarpanahi/openmed) ⭐ 5,783 | 🐛 462 | 🌐 Python | 📅 2026-11-05 - Local-first clinical NLP toolkit for medical entity recognition and HIPAA PII de-identification that runs entirely on-device.
-* [PageLM](https://github.com/CaviraOSS/PageLM) ⭐ 2,063 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-04 - Community-driven education platform for transforming study materials into interactive resources.
+* [OpenMed](https://github.com/maziyarpanahi/openmed) ⭐ 5,784 | 🐛 406 | 🌐 Python | 📅 2026-11-07 - Local-first clinical NLP toolkit for medical entity recognition and HIPAA PII de-identification that runs entirely on-device.
+* [PageLM](https://github.com/CaviraOSS/PageLM) ⭐ 2,063 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-04 - Community-driven education platform for transforming study materials into interactive resources.
 * [Unbody](https://github.com/unbody-io/unbody) ⭐ 524 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-14 - Modular, open-source backend for building AI-native software designed for knowledge.
 * [Myriade](https://github.com/myriade-ai/myriade) ⭐ 62 | 🐛 0 | 🌐 Shell | 📅 2026-11-05 - AI-native data platform for exploring and transforming data warehouses.
 
@@ -209,40 +209,40 @@ OCR, knowledge graphs, memory systems, and data infrastructure.
 
 Open datasets, evaluation benchmarks, and reference collections for agent systems.
 
-* [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 144,509 | 🐛 163 | 📅 2026-10-12 - Collection of system prompts and models for various AI tools.
-* [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) ⭐ 26,998 | 🐛 28 | 🌐 TypeScript | 📅 2025-09-21 - Principles for building LLM-powered software that is production-ready.
-* [Open LLMs](https://github.com/eugeneyan/open-llms) ⭐ 12,885 | 🐛 10 | 📅 2025-02-13 - Curated list of open LLMs available for commercial and research use.
-* [Harness Engineering](https://github.com/lopopolo/harness-engineering) ⭐ 2,754 | 🐛 1 | 🌐 Python | 📅 2026-07-18 - Field guide and anthology on harness engineering: improving agent output by curating the context, tools, and environment around a model.
+* [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 144,530 | 🐛 163 | 📅 2026-10-12 - Collection of system prompts and models for various AI tools.
+* [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) ⭐ 27,012 | 🐛 28 | 🌐 TypeScript | 📅 2025-09-21 - Principles for building LLM-powered software that is production-ready.
+* [Open LLMs](https://github.com/eugeneyan/open-llms) ⭐ 12,884 | 🐛 10 | 📅 2025-02-13 - Curated list of open LLMs available for commercial and research use.
+* [Harness Engineering](https://github.com/lopopolo/harness-engineering) ⭐ 2,756 | 🐛 1 | 🌐 Python | 📅 2026-07-18 - Field guide and anthology on harness engineering: improving agent output by curating the context, tools, and environment around a model.
 
 ## Productivity & Personal Assistants
 
 Chat interfaces, personal AI assistants, and productivity tools.
 
-* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 394,015 | 🐛 7,655 | 🌐 TypeScript | 📅 2026-11-06 - Personal AI assistant that runs on any OS and any platform.
-* [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 157,901 | 🐛 183 | 🌐 Svelte | 📅 2026-11-06 - Self-hosted web interface for interacting with various LLMs.
-* [Airi](https://github.com/moeru-ai/airi) ⭐ 51,153 | 🐛 281 | 🌐 TypeScript | 📅 2026-11-06 - Self-hosted AI companion and VTuber platform with voice chat and real-time interaction.
-* [LibreChat](https://github.com/danny-avila/LibreChat) ⭐ 46,794 | 🐛 1,140 | 🌐 TypeScript | 📅 2026-11-05 - Enhanced ChatGPT clone with Agents, MCP, multi-model support, and enterprise features.
-* [Jan](https://github.com/janhq/jan) ⭐ 45,507 | 🐛 564 | 🌐 Rust | 📅 2026-11-05 - Open-source alternative to ChatGPT that runs offline on your machine.
-* [Khoj](https://github.com/khoj-ai/khoj) ⭐ 38,016 | 🐛 171 | 🌐 Python | 📅 2026-08-02 - AI second brain for searching documents, the web, and building custom agents.
-* [Eigent](https://github.com/eigent-ai/eigent) ⭐ 15,753 | 🐛 261 | 🌐 TypeScript | 📅 2026-11-05 - Open-source coworker desktop application for individual productivity.
-* [Omi](https://github.com/BasedHardware/omi) ⭐ 13,902 | 🐛 1,400 | 🌐 Python | 📅 2026-11-06 - AI wearable device for real-time transcription and speech processing.
-* [Chat UI](https://github.com/huggingface/chat-ui) ⭐ 11,021 | 🐛 323 | 🌐 TypeScript | 📅 2026-11-05 - Open source codebase powering Hugging Face Chat with multi-model support.
-* [Feynman](https://github.com/Companion-Inc/feynman) ⭐ 10,082 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-05 - CLI research agent for literature review, deep research, paper critique, and replication planning with citation tracking.
-* [Agentic Inbox](https://github.com/cloudflare/agentic-inbox) ⭐ 8,612 | 🐛 60 | 🌐 TypeScript | 📅 2026-04-23 - Self-hosted email client with an AI agent, running on Cloudflare Workers.
-* [Rakazo](https://github.com/elie222/rakazo) ⭐ 7,231 | 🐛 154 | 🌐 TypeScript | 📅 2026-11-06 - Self-hostable platform for running persistent AI teammates with memory, routines, voice mode, and browser, terminal, and desktop access across web, desktop, and mobile apps.
-* [ClaraVerse](https://github.com/claraverse-space/ClaraVerse) ⭐ 3,904 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-03 - Open-source multimodal AI platform with local LLM, voice, vision, and code execution.
+* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 394,093 | 🐛 7,655 | 🌐 TypeScript | 📅 2026-11-07 - Personal AI assistant that runs on any OS and any platform.
+* [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 157,973 | 🐛 188 | 🌐 Svelte | 📅 2026-11-07 - Self-hosted web interface for interacting with various LLMs.
+* [Airi](https://github.com/moeru-ai/airi) ⭐ 51,182 | 🐛 281 | 🌐 TypeScript | 📅 2026-11-07 - Self-hosted AI companion and VTuber platform with voice chat and real-time interaction.
+* [LibreChat](https://github.com/danny-avila/LibreChat) ⭐ 46,831 | 🐛 1,157 | 🌐 TypeScript | 📅 2026-11-07 - Enhanced ChatGPT clone with Agents, MCP, multi-model support, and enterprise features.
+* [Jan](https://github.com/janhq/jan) ⭐ 45,543 | 🐛 569 | 🌐 Rust | 📅 2026-11-05 - Open-source alternative to ChatGPT that runs offline on your machine.
+* [Khoj](https://github.com/khoj-ai/khoj) ⭐ 38,033 | 🐛 170 | 🌐 Python | 📅 2026-08-02 - AI second brain for searching documents, the web, and building custom agents.
+* [Eigent](https://github.com/eigent-ai/eigent) ⭐ 15,759 | 🐛 263 | 🌐 TypeScript | 📅 2026-11-05 - Open-source coworker desktop application for individual productivity.
+* [Omi](https://github.com/BasedHardware/omi) ⭐ 13,908 | 🐛 1,429 | 🌐 Python | 📅 2026-11-07 - AI wearable device for real-time transcription and speech processing.
+* [Chat UI](https://github.com/huggingface/chat-ui) ⭐ 11,024 | 🐛 326 | 🌐 TypeScript | 📅 2026-11-06 - Open source codebase powering Hugging Face Chat with multi-model support.
+* [Feynman](https://github.com/Companion-Inc/feynman) ⭐ 10,086 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - CLI research agent for literature review, deep research, paper critique, and replication planning with citation tracking.
+* [Agentic Inbox](https://github.com/cloudflare/agentic-inbox) ⭐ 8,618 | 🐛 60 | 🌐 TypeScript | 📅 2026-04-23 - Self-hosted email client with an AI agent, running on Cloudflare Workers.
+* [Rakazo](https://github.com/elie222/rakazo) ⭐ 7,369 | 🐛 146 | 🌐 TypeScript | 📅 2026-11-07 - Self-hostable platform for running persistent AI teammates with memory, routines, voice mode, and browser, terminal, and desktop access across web, desktop, and mobile apps.
+* [ClaraVerse](https://github.com/claraverse-space/ClaraVerse) ⭐ 3,903 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-03 - Open-source multimodal AI platform with local LLM, voice, vision, and code execution.
 * [Ovi](https://github.com/character-ai/Ovi) ⭐ 1,762 | 🐛 46 | 🌐 Python | 📅 2025-11-15 - Experimental AI character interaction tool from the Character.ai team.
-* [Newelle](https://github.com/qwersyk/Newelle) ⭐ 1,501 | 🐛 22 | 🌐 Python | 📅 2026-11-04 - Virtual assistant application for desktop environments.
+* [Newelle](https://github.com/qwersyk/Newelle) ⭐ 1,501 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Virtual assistant application for desktop environments.
 * [Osaurus](https://github.com/dinoki-ai/osaurus) ⭐ 39 | 🐛 1 | 🌐 HTML | 📅 2026-02-24 - AI edge infrastructure for macOS that runs local or cloud models with MCP tool sharing.
 
 ## MCP & Tool Integration
 
 Model Context Protocol servers, tool integrations, and API connectivity.
 
-* [JSON Render](https://github.com/vercel-labs/json-render) ⭐ 18,934 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-06 - Tool for dynamically rendering AI-generated JSON data into user interfaces.
-* [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) ⭐ 16,472 | 🐛 163 | 🌐 Python | 📅 2026-11-06 - General-purpose sandbox platform for AI applications with multi-language SDKs.
+* [JSON Render](https://github.com/vercel-labs/json-render) ⭐ 19,130 | 🐛 119 | 🌐 TypeScript | 📅 2026-11-06 - Tool for dynamically rendering AI-generated JSON data into user interfaces.
+* [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) ⭐ 16,490 | 🐛 170 | 🌐 Python | 📅 2026-11-07 - General-purpose sandbox platform for AI applications with multi-language SDKs.
 * [Claude Context](https://github.com/zilliztech/claude-context) ⭐ 12,674 | 🐛 147 | 🌐 TypeScript | 📅 2026-07-14 - Code search MCP that makes entire codebases accessible to AI agents.
-* [Monid](https://github.com/monid-ai/monid) ⭐ 6,132 | 🐛 170 | 🌐 TypeScript | 📅 2026-11-03 - Unified gateway giving agents access to 2,000+ tools across multiple providers, with endpoint discovery and per-call metering.
+* [Monid](https://github.com/monid-ai/monid) ⭐ 6,139 | 🐛 170 | 🌐 TypeScript | 📅 2026-11-03 - Unified gateway giving agents access to 2,000+ tools across multiple providers, with endpoint discovery and per-call metering.
 * [Klavis](https://github.com/Klavis-AI/klavis) ⚠️ Archived - MCP integration platform for reliable tool use by AI agents at scale.
 * [Metorial](https://github.com/metorial/metorial) ⭐ 3,374 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-05 - Platform for connecting any AI model to 600+ integrations via MCP.
 * [Interactive MCP](https://github.com/ttommyth/interactive-mcp) ⭐ 351 | 🐛 10 | 🌐 TypeScript | 📅 2025-11-20 - Local, cross-platform MCP server for human-in-the-loop interaction with AI agents.
@@ -257,4 +257,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
